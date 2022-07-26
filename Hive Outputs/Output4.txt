@@ -1,0 +1,2740 @@
+thefyzz	1	Adventure
+micro_scope	1	Drama
+iDeal Partners Film Fund	1	Drama
+i5 Films	1	Crime
+i am OTHER	1	Adventure
+erbp	1	Drama
+double A Films	1	Drama
+Zupnik-Curtis Enterprises	1	Action
+Zucker Brothers Productions	1	Comedy
+Zeta Entertainment	1	Crime
+Zentropa International Norway	1	Action
+Zazen Produções	1	Action
+ZapPictures	1	Comedy
+Zanuck/Brown Productions	1	Adventure
+Zacharias-Buhai Productions	1	Comedy
+Young Sung Production Co.	1	Animation
+Young Hannibal Productions	1	Action
+Yash Raj Films	1	Drama
+Yash Raj Films	1	Action
+Yari Film Group Releasing	1	Biography
+Yari Film Group (YFG)	1	Crime
+Yale Productions	1	Crime
+Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF)	1	Drama
+World of Wonder Productions	1	Biography
+World Wrestling Entertainment (WWE)	1	Action
+World Film Services	1	Drama
+Woodline Productions	1	Comedy
+Wong Jing's Workshop Ltd.	1	Action
+Wiseau-Films	1	Drama
+Winwood Productions	1	Drama
+Winslow Partners Ltd.	1	Drama
+Winkler Films	1	Drama
+WingNut Films	1	Comedy
+WingNut Films	1	Biography
+Window III Productions	1	Comedy
+Wildwood Enterprises	1	Drama
+Wildgaze Films	1	Drama
+Wildgaze Films	1	Comedy
+Wild Bunch	1	Drama
+Wild Bunch	1	Biography
+Wigwam Films	1	Drama
+Wiedemann & Berg Filmproduktion	1	Drama
+Whitewater Films	1	Crime
+Whitewater Films	1	Comedy
+WhiteFlame Productions	1	Comedy
+White Lair	1	Comedy
+White Eagle	1	Action
+Whenua Films	1	Comedy
+Ways & Means	1	Crime
+Wayfare Entertainment	1	Drama
+Wayfare Entertainment	1	Action
+Waverly Films	1	Comedy
+Warp X	1	Drama
+Warp X	1	Crime
+Warp X	1	Action
+Warner Bros. Pictures	1	Drama
+Warner Bros. Digital Distribution	1	Crime
+Warner Animation Group	1	Animation
+Walden Media	1	Drama
+Walden Media	1	Adventure
+WW Production	1	Drama
+WIP	1	Drama
+Vivendi Entertainment	1	Comedy
+Visual Arts Entertainment	1	Comedy
+Vista Organization	1	Horror
+Vista Organization	1	Fantasy
+Vista Organization	1	Drama
+Vista Organization	1	Comedy
+Visiona Romantica	1	Crime
+Vision International	1	Adventure
+Virgin	1	Drama
+Virgin	1	Comedy
+Vinod Chopra Productions	1	Comedy
+Village Roadshow Pictures	1	Drama
+Village Roadshow Pictures	1	Comedy
+Village Roadshow Pictures	1	Action
+View Askew Productions	1	Comedy
+View Askew Productions	1	Adventure
+Victor Company of Japan (JVC)	1	Comedy
+Victor & Grais	1	Action
+Victoires International	1	Comedy
+Viacom Enterprises	1	Drama
+Vestron Pictures	1	Horror
+Vestron Pictures	1	Drama
+Vestron Pictures	1	Action
+Vestron Pictures	1	Comedy
+Verisimilitude	1	Drama
+Verdi Productions	1	Biography
+Vendian Entertainment	1	Crime
+Vegahom Europe	1	Adventure
+Vega Film	1	Comedy
+Varahonar Company	1	Drama
+Vanguard Films and Animation	1	Animation
+VAE Productions	1	Horror
+Upside Down Films	1	Drama
+Unplanned Movie	1	Biography
+Universal Pictures International (UPI)	1	Drama
+Universal City Studios	1	Comedy
+Unity Productions	1	Comedy
+Unity Pictures	1	Comedy
+United Film Distribution Company (UFDC)	1	Horror
+United Film Distribution Company (UFDC)	1	Comedy
+United Channel Movies	1	Drama
+United British Artists (UBA)	1	Action
+United Artists Pictures	1	Comedy
+United Artists Film Corporation	1	Adventure
+Unison Films	1	Comedy
+Underdog Productions	1	Comedy
+Ultra Muchos Productions	1	Comedy
+Ulrich Seidl Film Produktion GmbH	1	Horror
+UV Creations	1	Action
+UTV Spotboy	1	Drama
+UTV Motion Pictures	1	Comedy
+USA Films	1	Horror
+USA Films	1	Comedy
+UK Film Council	1	Drama
+UK Film Council	1	Crime
+UK Film Council	1	Comedy
+UAA Films	1	Horror
+Téléma	1	Drama
+Typhoon	1	Drama
+Two Ton Films	1	Comedy
+Two Prong Lesson	1	Drama
+Two Flints	1	Comedy
+Turner Pictures (I)	1	Comedy
+Turner Pictures (I)	1	Biography
+Turner Pictures (I)	1	Animation
+Turner Pictures (I)	1	Adventure
+Turner Pictures (I)	1	Action
+Trésor Films	1	Crime
+Trésor Films	1	Comedy
+Trésor Films	1	Action
+Truth Entertainment (II)	1	Biography
+True West Films	1	Biography
+Troma Entertainment	1	Action
+Triumph Films	1	Horror
+Triumph Films	1	Drama
+Triumph Films	1	Action
+Tristes Tropiques	1	Comedy
+Tribeca Productions	1	Comedy
+Tribeca Productions	1	Biography
+TriStar Television	1	Drama
+Tri Star Productions	1	Comedy
+Treehouse Pictures	1	Comedy
+Tre Vänner Produktion AB	1	Comedy
+Tre Vänner Produktion AB	1	Action
+Translux	1	Comedy
+Trancas International Films	1	Horror
+Trademark Films	1	Biography
+Toy Fight Productions	1	Comedy
+Total Recall	1	Action
+Tornasol Films	1	Drama
+Too Askew Prod. Inc.	1	Comedy
+Tonik Productions	1	Drama
+Tonic Films	1	Horror
+Tomson Films	1	Drama
+Tomboy Films	1	Comedy
+Tokuma Shoten	1	Animation
+Tokuma Japan Communications	1	Animation
+Toho Pictures	1	Action
+Toei Company	1	Animation
+Titan Productions	1	Horror
+Time Life Films	1	Crime
+Time Life Films	1	Comedy
+Tim Burton Productions	1	Comedy
+Tig Productions	1	Crime
+Tig Productions	1	Adventure
+Tig Productions	1	Action
+Tiberius Film Productions	1	Comedy
+Three Rivers Production	1	Romance
+Thorn EMI Screen Entertainment	1	Biography
+Thorn EMI Screen Entertainment	1	Action
+Thorn EMI Screen Entertainment	1	Comedy
+This Is That Productions	1	Crime
+This Is That Productions	1	Comedy
+This Is That Productions	1	Action
+Thin Man Films	1	Comedy
+They Are Going to Kill Us Productions	1	Comedy
+Thelma Film AG	1	Comedy
+The Zanuck Company	1	Drama
+The Zanuck Company	1	Action
+The Vista Organisation	1	Comedy
+The Ultimate Gift LLC	1	Drama
+The State Hermitage Museum	1	Drama
+The South Australian Film Corporation	1	Drama
+The Safran Company	1	Drama
+The Romantic Venture	1	Thriller
+The Rejoycing Company	1	Drama
+The Rank Organisation	1	Thriller
+The Rank Organisation	1	Drama
+The Rank Organisation	1	Comedy
+The National Hellenic Society	1	Drama
+The Movie Group	1	Drama
+The Movie Group	1	Comedy
+The Movie Group	1	Action
+The Mount Company (II)	1	Comedy
+The Mark Gordon Company	1	Action
+The Malpaso Company	1	Drama
+The Malpaso Company	1	Crime
+The Malpaso Company	1	Comedy
+The Malpaso Company	1	Biography
+The Malpaso Company	1	Action
+The Last Picture Company	1	Drama
+The Lamp	1	Action
+The Lab of Madness	1	Crime
+The Kushner-Locke Company	1	Comedy
+The Jerry Gross Organization	1	Horror
+The Ink Factory	1	Action
+The Halcyon Company	1	Action
+The Film Consortium	1	Comedy
+The Family Stone	1	Comedy
+The Collective Studios	1	Horror
+The Booking Office	1	Comedy
+The American Film Company	1	Crime
+Ternion Pictures	1	Comedy
+Temple Hill Entertainment	1	Drama
+Temple Hill Entertainment	1	Adventure
+Tartan Productions	1	Comedy
+Tartan Films	1	Biography
+Tapestry Films	1	Comedy
+Tapestry Films	1	Adventure
+TaliaFilm II Productions	1	Drama
+TaliaFilm II Productions	1	Action
+Tag Entertainment	1	Action
+TSG Entertainment	1	Comedy
+TS Productions	1	Drama
+TMS Pictures	1	Comedy
+TMS Entertainment	1	Animation
+THINKFilm	1	Comedy
+Syncopy	1	Action
+Symbolic Exchange	1	Drama
+Sweet Tea Pictures LLC	1	Comedy
+Svenska Filminstitutet (SFI)	1	Drama
+Svensk Filmindustri (SF)	1	Drama
+Superlative Films	1	Comedy
+Sunshine	1	Drama
+Sunrise	1	Animation
+Sunn Classic Pictures	1	Sci-Fi
+Sunn Classic Pictures	1	Horror
+Summit Premiere	1	Animation
+Sumerian Films	1	Drama
+Subzero Film Entertainment	1	Action
+Suburban Pictures	1	Comedy
+Stéphan Films	1	Biography
+Studio Trite	1	Drama
+Studio NuT	1	Animation
+Studio Hamburg Filmproduktion	1	Romance
+Studio 8	1	Action
+Studio 4°C	1	Animation
+Studio 37	1	Comedy
+Strongman	1	Biography
+Strong Heart/Demme Production	1	Crime
+Strike Entertainment	1	Horror
+Strike Entertainment	1	Action
+Stratus Film Co.	1	Comedy
+Storm Vision Entertainment	1	Comedy
+Stoney Lake Entertainment	1	Action
+Steve White Productions	1	Adventure
+Stephen Friedman/Kings Road Productions	1	Comedy
+State Street Pictures	1	Comedy
+Star Thrower Entertainment	1	Comedy
+Star Overseas	1	Action
+Star Cinema	1	Action
+Stage 6 Films	1	Thriller
+Stage 6 Films	1	Action
+Stacey Testro International	1	Comedy
+Square Visual Works Co. Ltd.	1	Animation
+Spring Creek Productions	1	Drama
+Spring Creek Productions	1	Comedy
+Spinal Tap Prod.	1	Comedy
+Spectrum Cinema Productions	1	Comedy
+SpectreVision	1	Horror
+SpectreVision	1	Action
+Spectacle Entertainment Group	1	Horror
+Sparkle Roll Media	1	Action
+Spacegate Productions	1	Action
+Space Rocket Nation	1	Horror
+Space Rocket Nation	1	Action
+Sovereign Pictures	1	Drama
+Sovereign Pictures	1	Biography
+Sovereign Pictures	1	Romance
+Sovereign Films (II)	1	Biography
+South Pacific Pictures	1	Drama
+Sorcerer Productions	1	Action
+Sony Pictures Entertainment (SPE)	1	Animation
+Sony Pictures Entertainment (SPE)	1	Action
+Sonet Film AB	1	Comedy
+Some Film	1	Comedy
+Solution Entertainment Group	1	Action
+Solana Films	1	Horror
+Sogepaq	1	Biography
+Softbank Ventures	1	Action
+Snowfort Pictures	1	Drama
+SnowPiercer	1	Action
+Snoot Entertainment	1	Horror
+Snoot Entertainment	1	Comedy
+Slough Pond	1	Comedy
+Slot Machine	1	Drama
+Skyscraper Films	1	Drama
+Skypass Entertainment	1	Drama
+Skyewiay	1	Drama
+Skydance Media	1	Action
+Sixty-Six Pictures	1	Drama
+Six Entertainment	1	Horror
+Siriol Productions	1	Animation
+Simcom Limited	1	Action
+Silverman Entertainment	1	Action
+Silver Sphere Corporation	1	Comedy
+Silver Screen Partners IV	1	Comedy
+Silver Screen Partners IV	1	Animation
+Silver Screen Partners IV	1	Adventure
+Silver Screen Partners III	1	Comedy
+Silver Screen Partners III	1	Adventure
+Silver Screen Partners II	1	Adventure
+Silver Pictures	1	Action
+Silent Night Releasing Corporation	1	Horror
+Sikhya Entertainment	1	Drama
+Sigma Film Productions	1	Drama
+Sierra / Affinity	1	Biography
+Sidéral Productions	1	Drama
+Sidus FNH-Benex Cinema Fund 1	1	Drama
+Shree Ashtavinayak Cine Vision	1	Comedy
+Show East	1	Action
+Shooting Gallery	1	Horror
+Shooting Gallery	1	Crime
+Shocking Bottle	1	Comedy
+ShivHans Pictures	1	Biography
+Sheinberg Productions	1	Action
+Sheen Productions	1	Action
+SharpSword Films	1	Drama
+ShadowCatcher Entertainment	1	Comedy
+Seven Arts Pictures	1	Drama
+Serendipity Point Films	1	Drama
+Serendipity Point Films	1	Crime
+Serendipity Point Films	1	Comedy
+Seraphim Films	1	Horror
+Senator Film Produktion	1	Biography
+Senator Entertainment Co	1	Crime
+SenArt Films	1	Comedy
+Semtex Films	1	Drama
+See-Saw Films	1	Drama
+See-Saw Films	1	Biography
+See-Saw Films	1	Adventure
+Sedic International	1	Action
+Seasonal Film Corporation	1	Action
+Seasonal Film Corporation	1	Adventure
+Sean S. Cunningham Films	1	Horror
+Seagoat Films	1	Action
+Seagal/Nasso Productions	1	Action
+Screen NSW	1	Drama
+Scottish Screen	1	Drama
+Scotti Brothers Pictures (I)	1	Drama
+Scott Free Productions	1	Drama
+Scion Films	1	Biography
+Scion Films	1	Adventure
+Sciarlò	1	Drama
+Scary Stuff	1	Comedy
+Savage Productions	1	Drama
+Saturn Films	1	Drama
+Sascha-Verleih	1	Comedy
+Sarlui / Diamant	1	Comedy
+Santo Domingo Film & Music Video	1	Comedy
+Santa Monica Holdings	1	Comedy
+Santa Fe International	1	Adventure
+Sands	1	Drama
+Sandollar Productions	1	Comedy
+Sandcastle 5 Productions	1	Comedy
+Sanai Pictures	1	Action
+Samuelson Productions	1	Action
+Samuelson Productions	1	Biography
+Samuels Media	1	Crime
+Samson Productions Pty. Ltd.	1	Drama
+Salon Pictures	1	Biography
+Sailor Bear	1	Drama
+Sailor Bear	1	Crime
+Sahamongkolfilm Co.	1	Action
+Sahamongkol Film International	1	Action
+Saga Productions Inc.	1	Biography
+Sacher Film	1	Drama
+Sacher Film	1	Biography
+Saban Entertainment	1	Animation
+SVT Drama	1	Biography
+SVS Films	1	Drama
+SModcast Pictures	1	Comedy
+SF Studios Production AB	1	Biography
+SBS Productions	1	Adventure
+SBS Productions	1	Comedy
+SBS Films	1	Crime
+S.F.P.C.	1	Biography
+Rustic Films	1	Horror
+Rumbalara Films	1	Adventure
+Ruby Films	1	Drama
+Ruby Films	1	Comedy
+Roxwell Films	1	Horror
+Roxwell Films	1	Crime
+Route One Entertainment	1	Adventure
+Route One Entertainment	1	Action
+Roth Films	1	Action
+Rosa Filmes	1	Drama
+Room 9 Entertainment	1	Comedy
+Rook Films	1	Drama
+Rondo Productions	1	Drama
+Romulus Entertainment	1	Drama
+Rollercoaster Films	1	Horror
+Rohfilm	1	Drama
+Rogue	1	Horror
+Rogue	1	Action
+Rogue	1	Drama
+Roadside Attractions	1	Action
+Riverside Pictures	1	Adventure
+River Road Productions	1	Crime
+Rimfire Films	1	Action
+Rifkin-Eberts	1	Crime
+Riddick Canada Productions	1	Action
+Richmond Light Horse Productions	1	Action
+Richard Williams Productions	1	Animation
+Rhino Films	1	Biography
+Rex Entertainment	1	Animation
+Revolution Films	1	Drama
+Revolution Films	1	Biography
+Revelations Entertainment	1	Crime
+Reteitalia	1	Crime
+Republic Pictures (II)	1	Comedy
+Reprisal Films	1	Comedy
+Rent Productions LLC	1	Drama
+Renn Productions	1	Drama
+Renn Productions	1	Biography
+Renaissance Pictures	1	Horror
+Renaissance Pictures	1	Comedy
+Renaissance Pictures	1	Action
+Ren Film	1	Drama
+Remstar Productions	1	Drama
+Remember Films	1	Comedy
+Religioso Primitiva	1	Comedy
+Reliance Big Pictures	1	Comedy
+Relevant Entertainment	1	Biography
+Regina Ziegler Filmproduktion	1	Sci-Fi
+Regency International Pictures	1	Crime
+Reel FX Creative Studios	1	Animation
+Redwave Films	1	Crime
+Redwave Films	1	Comedy
+Red Hour Films	1	Adventure
+Red Granite Pictures	1	Comedy
+Red Granite Pictures	1	Biography
+Red Chillies Entertainment	1	Drama
+Red Chillies Entertainment	1	Action
+Red Carpet Productions	1	Drama
+Rectangle Productions	1	Drama
+Realitism Films	1	Comedy
+RatPac-Dune Entertainment	1	Comedy
+RatPac-Dune Entertainment	1	Animation
+Rastar Productions	1	Drama
+Rankin/Bass Productions	1	Animation
+Rakueisha	1	Crime
+Rakeysh Omprakash Mehra Pictures	1	Biography
+Rajkumar Hirani Films	1	Comedy
+Rainforest Films	1	Drama
+Raindog Films	1	Biography
+Raindog Films	1	Action
+Raffaella Productions	1	Action
+Raffaella De Laurentiis Productions	1	Action
+Racing Pictures	1	Adventure
+Raajkamal Films International	1	Crime
+ROMP	1	Comedy
+RAI Radiotelevisione Italiana	1	Drama
+RADiUS-TWC	1	Comedy
+R&R Films	1	Adventure
+Qwerty Films	1	Comedy
+Quinta Communications	1	Crime
+Quat'sous Films	1	Drama
+Quad Productions	1	Comedy
+Quad Productions	1	Animation
+Quad Productions	1	Biography
+Q Productions	1	Biography
+Pyramide Productions	1	Comedy
+Pyramania	1	Action
+Purple Pictures	1	Comedy
+Pure Flix Productions	1	Drama
+Punch 21 Productions	1	Comedy
+Pt. Merantau Films	1	Action
+Pryor Entertainment	1	Comedy
+Prufrock Pictures	1	Drama
+Prowess Pictures	1	Crime
+Protostar Pictures	1	Horror
+Proton Cinema	1	Biography
+Protagonist Pictures	1	Adventure
+Prospero Pictures	1	Comedy
+Propaganda Films	1	Crime
+Prominent Features	1	Comedy
+Prominent Features	1	Adventure
+Produzioni Europee Associate (PEA)	1	Comedy
+Producers Representative Organization	1	Drama
+Process Media	1	Comedy
+Process Film	1	Drama
+Prime Film Productions LLC	1	Comedy
+Primate Pictures	1	Action
+Price Entertainment	1	Crime
+Price Entertainment	1	Biography
+Price Entertainment	1	Drama
+Price	1	Adventure
+Prettybird	1	Drama
+Pressman Productions	1	Drama
+Premiere Picture	1	Action
+Preferred Content	1	Drama
+Prana Studios	1	Animation
+Portreeve	1	Thriller
+Portman Productions	1	Comedy
+Portman Entertainment Group	1	Comedy
+Porchlight Films	1	Crime
+Porchlight Films	1	Adventure
+Porchlight Films	1	Action
+Populist Pictures	1	Crime
+Pope Productions	1	Comedy
+Pop Pop Productions	1	Biography
+Ponty Up Pictures	1	Fantasy
+Polygram Pictures	1	Comedy
+Polyc International BV	1	Animation
+PolyGram Pictures	1	Drama
+PolyGram Pictures	1	Adventure
+PolyGram Pictures	1	Action
+Police Academy Productions	1	Comedy
+Polar Entertainment	1	Comedy
+Point Grey Pictures	1	Comedy
+Poetic License Production	1	Drama
+Plunge Pictures LLC	1	Adventure
+Plump Fiction LLC	1	Comedy
+Playtone	1	Adventure
+Playhouse International Pictures	1	Drama
+Playhouse International Pictures	1	Biography
+Play It Inc.	1	Comedy
+Planet Productions	1	Comedy
+Plan B Entertainment	1	Crime
+Pirromount Pictures	1	Comedy
+Pioneer LDC	1	Horror
+Pine House Film	1	Drama
+Pine District Pictures	1	Comedy
+Piki Films	1	Adventure
+Pierre Grise Productions	1	Drama
+Pierpoline Films	1	Action
+Picturehouse	1	Comedy
+Picture Securities	1	Action
+Picture Palace North	1	Comedy
+Phillips Whitehouse Productions	1	Action
+PfH Ltd.	1	Biography
+Petit Film	1	Drama
+Peters Entertainment	1	Adventure
+Peters Entertainment	1	Action
+Pergamon Film	1	Biography
+Perfect World Pictures	1	Drama
+Perfect World Pictures	1	Adventure
+Percy Main	1	Drama
+Per Holst Filmproduktion	1	Drama
+Penta Films	1	Comedy
+Penta Entertainment	1	Comedy
+Pelican Productions LLC (I)	1	Adventure
+Pelemele Film	1	Comedy
+Pedro Costa Producciones Cinematográficas	1	Action
+Peace Arch Entertainment Group	1	Biography
+Paulist Pictures	1	Biography
+Paulilu Productions	1	Comedy
+Pathé Renn Productions	1	Biography
+Pathé Renn Productions	1	Adventure
+Party Productions	1	Comedy
+Partisan Productions	1	Adventure
+Parkway Productions	1	Comedy
+Parkes/Lasker productions	1	Comedy
+Paris Film	1	Horror
+Paramount Players	1	Adventure
+Parallax Pictures	1	Comedy
+Paragon Arts International	1	Horror
+Paper Street Films	1	Drama
+Papazian-Hirsch Entertainment International	1	Comedy
+Pantelion Films	1	Comedy
+Panorama Studios	1	Crime
+Panorama Films	1	Action
+Panorama Film A/S	1	Drama
+Panorama	1	Drama
+Pandora Filmproduktion	1	Adventure
+Pandora Filmproduktion	1	Action
+Pandora Cinema	1	Drama
+Pan Européenne	1	Drama
+Pan Arts	1	Comedy
+Palomar	1	Crime
+PalmStar Media	1	Drama
+PalmStar Media	1	Biography
+PalmStar Media	1	Action
+Palla	1	Comedy
+Paisley Park Films	1	Drama
+Paco Cinematografica	1	Crime
+PVM Entertainment	1	Drama
+PK 65 Films	1	Horror
+P2 Productions	1	Crime
+Oxford Film Company	1	Adventure
+Overnight Films	1	Action
+Overbrook Entertainment	1	Action
+Outlaw Productions (I)	1	Comedy
+Outlaw Productions (I)	1	Drama
+Out of the Blue... Entertainment	1	Drama
+Osterman Weekend Associates	1	Action
+Oscilloscope	1	Drama
+Origin Pictures	1	Biography
+Oriental Light and Magic (OLM)	1	Animation
+Opera Film Produzione	1	Comedy
+Opera Film (II)	1	Drama
+Open Road Films	1	Mystery
+Open Road Films	1	Comedy
+Open City Films	1	Comedy
+Onyx Films	1	Animation
+One Way Productions	1	Drama
+Omnilab Media	1	Action
+Omega Project	1	Action
+Omega Entertainment	1	Biography
+Olympus Pictures	1	Drama
+Olympus Pictures	1	Comedy
+Olga Film	1	Drama
+Odyssey	1	Comedy
+Odeon Films	1	Drama
+October Films	1	Crime
+October Films	1	Comedy
+Occupant Entertainment	1	Comedy
+OLC / Rights Entertainment	1	Biography
+O2 Filmes	1	Crime
+O Entertainment	1	Animation
+O Entertainment	1	Action
+Numero Uno International	1	Biography
+Noé Productions	1	Comedy
+Novotny & Novotny Filmproduktion GmbH	1	Drama
+Nova International Films	1	Biography
+Nova International Films	1	Action
+Notis Studio	1	Drama
+Northern Lights Films	1	Horror
+Northern	1	Comedy
+Norsk Film	1	Crime
+Norman Twain Productions	1	Drama
+Nordisk Film Production Sverige AB	1	Biography
+Nordisk Film / SPRING	1	Crime
+Nordisk Film	1	Drama
+Nord-Ouest Films	1	Drama
+Nord-Ouest Films	1	Comedy
+Non-Stop Productions	1	Crime
+Non-Stop Productions	1	Drama
+No Matter Pictures	1	Comedy
+No Frills Film Production	1	Horror
+No Frills Film Production	1	Drama
+Nippon Television Network (NTV)	1	Animation
+Nine Yards Two Productions	1	Comedy
+Nicolas Entertainment	1	Horror
+Nicholas Sparks Productions	1	Drama
+Nibariki	1	Animation
+Next Wave Films	1	Crime
+Next Entertainment World	1	Action
+Next Entertainment	1	Horror
+Newmarket Capital Group	1	Mystery
+Newmarket Capital Group	1	Drama
+New World Entertainment Films	1	Comedy
+New World Entertainment Films	1	Drama
+New Visions Pictures	1	Mystery
+New Visions	1	Drama
+New Sky Communications Inc.	1	Fantasy
+New Oz Productions	1	Comedy
+New Horizons Picture	1	Horror
+New Century Entertainment Corporation	1	Drama
+New Century Entertainment Corporation	1	Action
+New Century Entertainment	1	Fantasy
+New Artists Alliance	1	Comedy
+New Amsterdam Entertainment	1	Fantasy
+Nest Family Entertainment	1	Animation
+National Film Trustee Company	1	Drama
+National Broadcasting Company (NBC)	1	Comedy
+Natant	1	Drama
+Nasser Group	1	Drama
+NVSH Productions	1	Action
+NPV Entertainment	1	Drama
+NH Studioz	1	Crime
+NFH Productions	1	Drama
+NEO Motion Pictures	1	Drama
+NDF International	1	Crime
+NBC Productions	1	Comedy
+NBC Film	1	Drama
+NBC Film	1	Crime
+Myung Film Company Ltd.	1	Drama
+Mystery Clock Cinema	1	Fantasy
+Myriad Pictures	1	Comedy
+Mutual Film Company	1	Comedy
+Mutual Film Company	1	Action
+Mundy Lane Entertainment	1	Comedy
+Mulholland Productions	1	Comedy
+Mulberry Square Productions	1	Comedy
+Mrs. White's Productions	1	Horror
+Movision	1	Drama
+Movision	1	Action
+Moviola Film och Television AB	1	Drama
+Movie Partners	1	Comedy
+Mott Street Pictures	1	Drama
+Mosfilm	1	Comedy
+Mosaic	1	Comedy
+Mosaic	1	Crime
+Morra  Brezner  Steinberg and Tenenbaum Entertainment (MBST)	1	Comedy
+Morison Film Group	1	Horror
+Mooz Films	1	Drama
+Moonstone Entertainment	1	Drama
+Moonlight Film	1	Crime
+Monsterfoot Productions	1	Comedy
+Monogatari	1	Comedy
+Monkeypaw Productions	1	Horror
+Monarchy Enterprises B.V.	1	Comedy
+Monarch Pictures	1	Drama
+Modern Man Films	1	Biography
+Mod Producciones	1	Crime
+Mod Producciones	1	Adventure
+Mockingbird Pictures	1	Comedy
+Mobra Films	1	Drama
+Mirage Films	1	Adventure
+Mirage Entertainment	1	Comedy
+Miracle Pictures	1	Comedy
+Mirabai Films	1	Crime
+Ministère de la Culture et de la Communication	1	Drama
+Mindy Affrime	1	Drama
+Mimran Schur Pictures	1	Biography
+Millennium Media	1	Action
+Millenium	1	Drama
+Millenium	1	Comedy
+Milkshake Films	1	Adventure
+Milk & Media	1	Horror
+Mike Lobell Productions	1	Drama
+Mighty Engine	1	Drama
+Midwinter Productions Inc.	1	Comedy
+Mid Day Multimedia Limited	1	Action
+Metropolitan Filmexport	1	Action
+Metrocolor	1	Comedy
+Metafilms	1	Drama
+Meta Film Stockholm	1	Crime
+Mepris Films	1	Comedy
+Menuet Producties	1	Drama
+Menageatroz	1	Drama
+Memento Films Production	1	Crime
+Memento Films Production	1	Drama
+Meltdown Productions	1	Animation
+Meir Teper	1	Comedy
+Mediaset España	1	Drama
+Media Ventures	1	Crime
+Media Rights Capital (MRC)	1	Action
+Media Pro Pictures	1	Action
+Media Asia Films	1	Action
+Media 8 Entertainment	1	Biography
+McFarlane Films	1	Action
+Mayhem Pictures	1	Biography
+Mayfair Entertainment International	1	Drama
+Maybach Film Productions	1	Drama
+Maven Pictures	1	Adventure
+Matten Productions	1	Drama
+Material Pictures	1	Comedy
+Material	1	Action
+Matchbox Pictures	1	Crime
+Marvel Entertainment	1	Action
+Marquis	1	Comedy
+Marked Entertainment	1	Comedy
+Marcy Media	1	Comedy
+Marble Hall	1	Action
+Mantarraya Producciones	1	Drama
+Mann/Caan Productions	1	Action
+Manic LLC	1	Drama
+Manhattan Pictures International	1	Drama
+Manfred Durniok Filmproduktion	1	Biography
+Mandalay Vision	1	Biography
+Mandalay Pictures	1	Adventure
+Mandalay Pictures	1	Drama
+Management Company Entertainment Group (MCEG)	1	Comedy
+Management Company Entertainment Group (MCEG)	1	Drama
+Malofilm	1	Thriller
+Maljack Productions	1	Biography
+Majestic Films International	1	Mystery
+Majestic Films International	1	Comedy
+Majestic Films International	1	Action
+Mainline Pictures	1	Drama
+Magnus Films	1	Drama
+Magnum Pictures Inc.	1	Horror
+Magnolia Filmproduktion	1	Crime
+Magnet Releasing	1	Comedy
+Magic Light Pictures	1	Action
+Maddock Films	1	Comedy
+Macari/Edelstein	1	Drama
+MacGuffin Pictures	1	Action
+Mac and Me Joint Venture	1	Adventure
+MWM Studios	1	Action
+MTM Enterprises	1	Drama
+MPL Communications	1	Drama
+MPI Media Group	1	Horror
+MGM Family Entertainment	1	Animation
+MFF Feature Film Productions	1	Adventure
+MEDIA Programme of the European Union	1	Drama
+MDP Worldwide	1	Drama
+MDP Worldwide	1	Crime
+MDP Worldwide	1	Action
+MBP (Germany)	1	Drama
+M3 Alliance	1	Comedy
+M.E.S. Productions	1	Action
+Légende Films	1	Biography
+Légende Films	1	Crime
+Lynn-Davis Productions	1	Action
+Lynda Obst Productions	1	Comedy
+Lyla Films	1	Drama
+Luv Films	1	Comedy
+Lutzus-Brown	1	Drama
+Lupo-Anthony-Quintano Productions	1	Western
+Luna Films	1	Horror
+Lumière Pictures	1	Crime
+Lumiere Pictures	1	Drama
+Lucky Monkey Pictures	1	Comedy
+Lucille Ball Productions	1	Drama
+Lucasfilm Animation	1	Animation
+Lucamar Productions	1	Comedy
+Louisiana Producers Film Source	1	Drama
+Lost Soul Productions	1	Horror
+Los Angeles Media Fund (LAMF)	1	Drama
+Los Angeles Media Fund (LAMF)	1	Comedy
+Lorimar Film Partners	1	Drama
+Longview Entertainment	1	Comedy
+London Weekend Television (LWT)	1	Comedy
+Lolafilms	1	Comedy
+Lodestar Productions	1	Action
+Lleju Productions	1	Drama
+LivePlanet	1	Comedy
+Live Entertainment	1	Mystery
+Live Entertainment	1	Crime
+Live Entertainment	1	Comedy
+Live Entertainment	1	Action
+Little Tokyo Productions	1	Action
+Little Stranger	1	Comedy
+Little Bear	1	Drama
+Lions Gate Entertainment	1	Drama
+Limelight Productions (II)	1	Comedy
+Lilies Films	1	Drama
+Likely Story	1	Drama
+Lija Productions	1	Comedy
+Lightstorm Entertainment	1	Action
+Lightning Ridge	1	Comedy
+LightWave Entertainment	1	Biography
+Lewitt / Eberts Productions	1	Crime
+Levins-Henenlotter	1	Comedy
+Les Productions Mutuelles Ltée	1	Comedy
+Les Productions Lazennec	1	Drama
+Les Films du Loup	1	Thriller
+Les Films du Lendemain	1	Drama
+Les Films du Fleuve	1	Drama
+Les Films de la Tour	1	Drama
+Les Films de Pierre	1	Drama
+Les Films Séville	1	Drama
+Les Films Plain Chant	1	Crime
+Les Films Paul Grimault	1	Animation
+Les Films Galaxie	1	Music
+Les Films Christian Fechner	1	Biography
+Les Films 21	1	Action
+Les Films 13	1	Drama
+Les Compagnons du Cinéma	1	Biography
+Les Artistes Anonymes	1	Comedy
+Leisure Investment Company	1	Action
+Legendary East	1	Action
+Legend3D	1	Adventure
+Legend Production Company	1	Adventure
+Left Turn Films	1	Comedy
+Leeds/Ben-Ami Productions	1	Action
+Lee Rich Productions	1	Adventure
+Lee Mendelson Film Productions	1	Animation
+Lee Daniels Entertainment	1	Drama
+Le Studio Canal+	1	Crime
+Lava Bear Films	1	Drama
+Laurenfilm	1	Comedy
+Laurence Mark Productions	1	Comedy
+Laughing Kookaburra Productions	1	Drama
+Last Holiday Productions	1	Comedy
+Largo International N.V.	1	Biography
+Larger Than Life Productions	1	Comedy
+Larco Productions	1	Comedy
+Laokoon Filmgroup	1	Drama
+Lantana Productions	1	Comedy
+Lantana	1	Comedy
+Lancaster Gate	1	Comedy
+Lambart Productions	1	Comedy
+Lakeshore International	1	Comedy
+Lake (Comfort and Joy)	1	Comedy
+Lago Film	1	Crime
+Lagniappe Films	1	Comedy
+Ladybugs	1	Comedy
+Ladbroke	1	Drama
+La Sept-Arte	1	Drama
+La Petite Reine	1	Horror
+La Cecilia	1	Drama
+LBI Productions	1	Crime
+L.P. Film	1	Drama
+L.A. Films	1	Comedy
+Kôdansha	1	Animation
+Kôdansha	1	Action
+Kyta Productions	1	Action
+Kuzui Enterprises	1	Comedy
+Kudos Film and Television	1	Action
+Krisjair	1	Action
+Krasnow Productions	1	Family
+Kouf/Bigelow Productions	1	Drama
+Kouf/Bigelow Productions	1	Action
+Korea Pictures	1	Drama
+Kopelson Entertainment	1	Action
+Konrad Pictures	1	Comedy
+Komplizen Film	1	Comedy
+Kolipoki Pictures	1	Adventure
+Kodiak Films	1	Drama
+Koch Company	1	Action
+Knock Films A.V.V.	1	Action
+Knickerbocker Films	1	Biography
+Klasky-Csupo	1	Animation
+Kintop Pictures	1	Comedy
+Kino Korsakoff	1	Drama
+Kingsmere Properties	1	Comedy
+Kingsgate Films	1	Comedy
+Kindred Limited Partnership	1	Horror
+Kim Ki-Duk Film	1	Crime
+KeyEast	1	Action
+Kevin Downes Productions	1	Biography
+Keep Your Head	1	Biography
+Katzka	1	Horror
+Kasdan Pictures	1	Action
+Karbo Vantas Entertainment	1	Horror
+Kanun parvaresh fekri	1	Biography
+Kanun parvaresh fekri	1	Drama
+Kang Je-Kyu Film Co. Ltd.	1	Action
+Kaltenbach Pictures	1	Comedy
+KB Erik the Viking	1	Comedy
+K5 International	1	Comedy
+K.G. Productions	1	Drama
+Juno Pix	1	Drama
+Juno Pix	1	Comedy
+Juniper Films	1	Drama
+Junglee Pictures	1	Action
+Junebug Movie	1	Comedy
+June Pictures	1	Drama
+Julian Marsh Pictures	1	Musical
+Josephson Entertainment	1	Comedy
+Joseph S. Vecchio Entertainment	1	Comedy
+Jones Entertainment Group	1	Drama
+Jon Shestack Productions	1	Comedy
+Jolie Pas	1	Action
+John Wells Productions	1	Action
+John Davis	1	Comedy
+Joel Castleberg Productions	1	Comedy
+Joe's Daughter	1	Comedy
+Joe Wizan/Todd Black	1	Adventure
+Jhoom Jhoom Productions	1	Drama
+Jethro Films Production	1	Drama
+Jet Tone Production	1	Drama
+Jet Tone Production	1	Action
+Jet Tone Production	1	Comedy
+Jerry Bruckheimer Films	1	Biography
+Jerry Bruckheimer Films	1	Animation
+Jensen Farley Pictures	1	Comedy
+Jay Weston Productions	1	Drama
+Jascat	1	Comedy
+Jaquet	1	Drama
+James Glickenhaus	1	Action
+Jaffilms	1	Comedy
+Jaffe-Lansing	1	Comedy
+Jack Giarraputo Productions	1	Comedy
+JLT Productions	1	Adventure
+JF Productions	1	Sci-Fi
+JDI Productions	1	Comedy
+JD Productions	1	Biography
+J&M Entertainment	1	Action
+J & M	1	Biography
+Ixtlan	1	Drama
+Ixtlan	1	Biography
+Ixtlan	1	Crime
+Ivory Way Productions	1	Action
+Item 7	1	Drama
+It's a Laugh Productions	1	Comedy
+Ironbark Films	1	Comedy
+Iron Horse Entertainment (II)	1	Comedy
+Irish Screen	1	Comedy
+Ipso Facto Productions	1	Comedy
+Intrinsic Value Films	1	Drama
+Intrepid Pictures	1	Horror
+Intrepid Pictures	1	Crime
+International West Pictures (IWP)	1	Comedy
+International Film Investors	1	Biography
+International Cinema Corporation (ICC)	1	Drama
+International Cinema Corporation (ICC)	1	Adventure
+International Cinema	1	Action
+Intermedia Films	1	Comedy
+Intermedia Films	1	Drama
+Intermedia	1	Adventure
+Insurge Pictures	1	Horror
+Insurge Pictures	1	Drama
+Innovisions	1	Comedy
+Initial Pictures	1	Biography
+Initial Films	1	Action
+Initial Film and Television	1	Drama
+Initial Entertainment Group (IEG)	1	Drama
+Initial Entertainment Group (IEG)	1	Comedy
+Initial Entertainment Group (IEG)	1	Action
+Informant Media	1	Comedy
+Informant Media	1	Biography
+Infinity Films	1	Horror
+Infinity Features Entertainment	1	Adventure
+Inferno Distribution	1	Comedy
+Industry Entertainment	1	Drama
+Indigo Film	1	Drama
+Indigo Film	1	Comedy
+Indigo Film	1	Adventure
+IndieProd Company Productions	1	Drama
+Indiana Production	1	Adventure
+India Take One Productions	1	Comedy
+India Take One Productions	1	Action
+Independent Pictures (II)	1	Comedy
+Independent Film Centre	1	Action
+Incentive Filmed Entertainment	1	Horror
+Incentive Filmed Entertainment	1	Drama
+Incentive Filmed Entertainment	1	Action
+In-Gear Film Production	1	Crime
+In-Gear Film	1	Crime
+In-Cine Compañía Industrial Cinematográfica	1	Biography
+In The Bag Productions	1	Comedy
+Imperial Entertainment Corporation	1	Action
+Imperial Entertainment	1	Action
+Imperative Entertainment	1	Biography
+Imagi Animation Studios	1	Animation
+Image Organization	1	Fantasy
+Image Organization	1	Action
+Image Comics	1	Action
+Iconoclast	1	Crime
+Iconoclast	1	Comedy
+Ibid Filmworks	1	Biography
+Iberville Productions	1	Crime
+ITM Productions	1	Action
+ITC Films	1	Action
+IRS Media	1	Crime
+IRS Media	1	Comedy
+IMF Internationale Medien und Film GmbH & Co. Produktions KG	1	Comedy
+IMF Internationale Medien und Film GmbH & Co. 2. Produktions KG	1	Drama
+IFC Films	1	Comedy
+Hyperion Pictures	1	Family
+Hyperion Pictures	1	Comedy
+Hyperion Pictures	1	Animation
+Hydraulx	1	Drama
+Hyde Park Entertainment	1	Action
+Hurwitz Creative	1	Comedy
+Hurwitz Creative	1	Biography
+Hurwitz Creative	1	Animation
+Hunting Lane Films	1	Drama
+Hunter Killer Productions	1	Action
+Hungarofilm	1	Comedy
+Human Stew Factory	1	Action
+Huit et Demi Productions	1	Crime
+Hugo Productions	1	Drama
+Huayi Brothers Pictures	1	Comedy
+Huayi Brothers Media	1	Drama
+Huayi Brothers Media	1	Comedy
+Huayi Brothers	1	Comedy
+Huayi Brothers	1	Action
+Houston King Productions	1	Drama
+House Row Productions	1	Horror
+House & Moorhouse Films	1	Drama
+Hopscotch Features	1	Action
+Hoot Productions LLC	1	Adventure
+Home Box Office (HBO)	1	Drama
+Home Box Office (HBO)	1	Comedy
+Home Box Office (HBO)	1	Adventure
+Home Box Office (HBO)	1	Action
+Hollywood Licensing Group	1	Action
+Hivemind	1	Comedy
+Hivemind	1	Biography
+Hivemind	1	Action
+Historias Cinematograficas Cinemania	1	Drama
+Hill/Rosenman	1	Drama
+High School Sweethearts	1	Comedy
+High Bar Productions	1	Horror
+Hidden Empire Film Group (HEFG)	1	Comedy
+Hicktown Entertainment	1	Action
+Hickmar Productions	1	Horror
+Hibiscus Films	1	Biography
+Herrick Entertainment	1	Horror
+Heron Productions	1	Comedy
+Heron Communications	1	Horror
+Hero Entertainment	1	Crime
+Hermetof Pictures	1	Drama
+Hell's Kitchen Films	1	Drama
+Hell's Kitchen Films	1	Biography
+Heat GBR	1	Action
+Headline Pictures	1	Comedy
+Haxan Films	1	Horror
+Havoc	1	Crime
+Have No Fear Productions	1	Action
+Haut et Court	1	Biography
+Hasbro	1	Action
+Harvest Filmworks	1	Drama
+Haruki Kadokawa Films	1	Action
+Hartbeat Productions	1	Comedy
+Hart Sharp Entertainment	1	Drama
+Harpo Films	1	Drama
+Harpo Films	1	Biography
+Harold Robbins International Company	1	Drama
+Happy Madison Productions	1	Comedy
+Happy Madison Productions	1	Animation
+Handprint Entertainment	1	Biography
+Handful of Dust	1	Drama
+HanWay Films	1	Drama
+HanWay Films	1	Biography
+HanWay Films	1	Action
+Hammerhead Productions	1	Horror
+Hammer & Tongs	1	Action
+Halloween VI Productions	1	Horror
+Hal Roach Studios	1	Horror
+Haishang Films	1	Drama
+Haft Entertainment	1	Drama
+Hachette Première	1	Adventure
+Hachette Première	1	Comedy
+HSX Films	1	Action
+HK Film Corporation	1	Crime
+HDNet Films	1	Crime
+HB Filmes	1	Drama
+H.I.T. Films	1	Horror
+Guys Upstairs	1	Drama
+Gurian Entertainment	1	Crime
+Gullane Pictures	1	Adventure
+Gulfstream Pictures	1	Comedy
+Guild	1	Drama
+Guber-Peters Company	1	Comedy
+Guardian Trust Company	1	Horror
+Gruskoff/Levy Company	1	Comedy
+Growing Tree Productions	1	Horror
+Groundswell Productions	1	Crime
+Groundswell Productions	1	Drama
+Grisbi Productions  Le	1	Drama
+Griffon Productions	1	Comedy
+Greisman Productions	1	Action
+Greenwich Film Productions	1	Action
+Greentree	1	Comedy
+Greenleaf Productions	1	Action
+GreeneStreet Films	1	Drama
+GreeneStreet Films	1	Comedy
+Green/Renzi	1	Drama
+Green Umbrella Ltd.	1	Drama
+Green Parrot	1	Crime
+Green Fish Pictures	1	Action
+Greek Film Center	1	Drama
+Greater Productions	1	Biography
+Gray Daisy Films	1	Drama
+Gray City	1	Drama
+Grand Slam Productions	1	Drama
+Grand Highway Productions	1	Drama
+Gran Via Productions	1	Adventure
+Grace	1	Action
+Gordon Company	1	Drama
+Gordon Company	1	Action
+Googly Films	1	Adventure
+Goodspeed Productions	1	Drama
+Good Universe	1	Comedy
+Good Universe	1	Biography
+Good Universe	1	Action
+Good Film Company	1	Comedy
+Good Dog Productions LLC	1	Drama
+Gomillion Studios	1	Action
+Goldwyn Films	1	Biography
+Goldcrest Pictures	1	Drama
+GoldDay	1	Action
+Gold Pine Productions	1	Action
+Golar Productions	1	Horror
+Goddard Textiles	1	Crime
+Goalpost Pictures	1	Action
+Go Films	1	Action
+Gloria Sanchez Productions	1	Comedy
+Glen Echo Entertainment	1	Comedy
+Glass Eye Pix	1	Drama
+Give Me Liberty	1	Comedy
+Gilbert Films	1	Drama
+Gibraltar Entertainment	1	Crime
+Ghoulardi Film Company	1	Drama
+Ghoulardi Film Company	1	Comedy
+Ghost House Pictures	1	Horror
+Georgian-Film	1	Drama
+George Films	1	Biography
+Genre Films	1	Action
+Gemini Films	1	Romance
+Gemini Films	1	Drama
+Geetha Arts	1	Action
+Geechee Girls	1	Drama
+Gaylord Productions	1	Drama
+Gaumont International	1	Comedy
+Gato Negro Films	1	Comedy
+Gary Sherman Productions	1	Drama
+Gary Kurfirst Pictures	1	Comedy
+Gamechanger Films	1	Drama
+Gallery Films	1	Action
+Gainax	1	Animation
+Gail Katz Productions	1	Biography
+GP Pictures	1	Drama
+GMT Productions	1	Drama
+GK Films	1	Crime
+GK Films	1	Comedy
+GK Films	1	Biography
+GK Films	1	Action
+GH Pictures	1	Action
+GGG	1	Adventure
+G4 Productions	1	Comedy
+G-BASE	1	Action
+Fuzzy Bunny Films (I)	1	Comedy
+Funny Boy Films	1	Comedy
+Fulvia Film	1	Horror
+Fulvia Film	1	Action
+Fuller Films	1	Drama
+Full Crew/Say Yea	1	Drama
+Fuji Television Network	1	Adventure
+Fugitive TV Productions	1	Biography
+Fuego Films	1	Biography
+Fu Works	1	Drama
+Front Films	1	Comedy
+Front Films	1	Action
+Freedom Media	1	Drama
+Freddie Fields Productions	1	Horror
+Frank Yablans Presentations	1	Crime
+France 3 Cinéma	1	Drama
+Fox Run Productions Inc.	1	Comedy
+Fourth Protocol	1	Thriller
+Four Seasons Partnership	1	Biography
+Forward Pass	1	Biography
+Forward Pass	1	Action
+Forum Sarajevo	1	Comedy
+Fortis Films	1	Comedy
+Forge	1	Comedy
+Forest Whitaker's Significant Productions	1	Biography
+Foresight Unlimited	1	Action
+Forensic Films	1	Drama
+Forecast Pictures	1	Biography
+Force Productions	1	Action
+Forager Films	1	Comedy
+Fons Rademakers Produktie	1	Drama
+Follow Through Productions	1	Biography
+Fogwood Films	1	Drama
+Focus World	1	Comedy
+Focus Puller Inc.	1	Biography
+Flying Heart Films	1	Comedy
+Fluidity Films	1	Drama
+Flan de Coco Films	1	Drama
+Flach Film	1	Comedy
+Flach Film	1	Drama
+Firsttake Entertainment	1	Comedy
+First Sun	1	Drama
+First Millenium Partnership	1	Drama
+First Light Production	1	Drama
+Fireworks Pictures	1	Drama
+Finnegan/Pinchuk Productions	1	Action
+Fingerprint Releasing	1	Drama
+Fingerprint Releasing	1	Comedy
+Fineworks	1	Action
+Filmtrex	1	Drama
+Filmtre	1	Comedy
+Filmtown Entertainment	1	Comedy
+Films de L'Alma	1	Action
+Films RSL	1	Comedy
+Films & Casting Temple Pvt. Ltd. Sydney	1	Action
+Filmplan International	1	Horror
+Filmmaker R&K	1	Action
+Filmline Productions	1	Thriller
+Filmline Productions	1	Comedy
+Filmkameratene A/S	1	Drama
+Filmhaus	1	Crime
+Filmgalerie 451	1	Drama
+Filmax International	1	Crime
+Filmax Group	1	Drama
+Filmax Entertainment	1	Comedy
+Filmax	1	Horror
+FilmNation Entertainment	1	Drama
+FilmColony	1	Drama
+FilmColony	1	Comedy
+Film i Väst	1	Crime
+Film Workshop	1	Action
+Film Victoria	1	Crime
+Film Science	1	Drama
+Film Poland Productions	1	Biography
+Film Partner International	1	Action
+Film Par Film	1	Drama
+Film Par Film	1	Comedy
+Film Par Film	1	Biography
+Film Kraft	1	Action
+Film Finance	1	Drama
+Film Corporation of Kenya	1	Action
+Film Capital Stockholm	1	Drama
+Film Andes S.A.	1	Biography
+Film Afrika Worldwide	1	Action
+Film 44	1	Action
+Film 4	1	Action
+Figment Films	1	Adventure
+Fifteen	1	Comedy
+Field Guide Films	1	Drama
+Fidélité Films	1	Drama
+Fickle Fish Films	1	Comedy
+Fewlas Entertainment	1	Drama
+Ferndale Films	1	Biography
+Fermion Films	1	Comedy
+Feature Film Enterprise II	1	Drama
+Fear of God Films	1	Drama
+Fear and Loathing LLC	1	Adventure
+Fast Films	1	Drama
+Far West	1	Drama
+Fandango	1	Crime
+Fallingcloud	1	Action
+Faliro House Productions	1	Drama
+Falcon International Productions	1	Biography
+FaithStep Films	1	Drama
+Fairway Films	1	Biography
+Fairview Entertainment	1	Adventure
+Fade to Black Productions	1	Drama
+Fade In Films	1	Comedy
+Fabula	1	Comedy
+FX Sound	1	Crime
+FTM Productions	1	Comedy
+FM Entertainment International N.V.	1	Action
+FM Entertainment	1	Biography
+FIT Productions	1	Biography
+FGM Entertainment	1	Action
+FAI Films	1	Animation
+F2	1	Action
+F/M	1	Action
+F.F. Associates	1	Comedy
+Extra Large Pictures	1	Comedy
+Exclusive Films	1	Adventure
+Excelsior Film-TV	1	Comedy
+Excel Entertainment	1	Drama
+Excel Entertainment	1	Comedy
+Excel Entertainment	1	Action
+Evolution Entertainment	1	Horror
+Everything Is Everything	1	Crime
+Everyman Pictures	1	Comedy
+Evenstar Films	1	Adventure
+Evenstar Films	1	Drama
+Eureka Pictures	1	Comedy
+Eurasia Investments	1	Action
+Eulogy Productions LLC	1	Comedy
+Euforia Film	1	Comedy
+Etalon Film	1	Comedy
+Estudios Picasso	1	Drama
+Estudios Churubusco Azteca S.A.	1	Action
+Estudios Churubusco Azteca S.A.	1	Comedy
+Esperanza Films Inc.	1	Crime
+Esperanto Filmoj	1	Comedy
+Esparza	1	Comedy
+Escape Artists	1	Comedy
+Escape Artists	1	Action
+Escalante Productions	1	Action
+Erre Produzioni	1	Drama
+Eros Worldwide	1	Drama
+Eros Worldwide	1	Comedy
+Eros Worldwide	1	Action
+Erato Films	1	Biography
+Epsilon Motion Pictures	1	Adventure
+Epic Level Entertainment	1	Biography
+Envision Media Arts	1	Comedy
+Enticing Entertainment	1	Biography
+Entertainment Studios Motion Pictures	1	Adventure
+Entertainment Manufacturing Company	1	Action
+Entertainment Film Distributors	1	Action
+Entertainment Events	1	Action
+Enlightenment Productions	1	Drama
+Englander Productions	1	Biography
+Engine Film	1	Drama
+Engelberg-Sumner-Cheikes	1	Comedy
+Endgame Entertainment	1	Crime
+Endgame Entertainment	1	Comedy
+Endgame Entertainment	1	Biography
+Endgame Entertainment	1	Action
+Endgame Entertainment	1	Adventure
+Enderby Entertainment	1	Drama
+End Cue	1	Crime
+End Cue	1	Action
+Encino Man Productions	1	Comedy
+Enchantment Films Inc.	1	Crime
+Enchanter Entertainment	1	Crime
+Emshell Producers	1	Comedy
+Emphatic Films	1	Drama
+Emperor Multimedia Group (EMG)	1	Action
+Emmett/Furla/Oasis Films (EFO Films)	1	Biography
+Emmett/Furla/Oasis Films (EFO Films)	1	Action
+Emmett/Furla/Oasis Films (EFO Films)	1	Comedy
+Embi Productions	1	Drama
+Embassy International Pictures	1	Drama
+Embassy International Pictures	1	Comedy
+Elysian Dreams	1	Comedy
+Elrina Investment	1	Comedy
+Ellinas Multimedia	1	Comedy
+Elle Driver	1	Drama
+Eleventh Street Production	1	Biography
+Electric Panda Entertainment	1	Crime
+Electric Entertainment	1	Crime
+Electric Entertainment	1	Action
+Electric City Entertainment	1	Comedy
+Elara Pictures	1	Crime
+El Mar Pictures	1	Biography
+El Camino Pictures	1	Comedy
+Eikon Film	1	Biography
+Egoli Tossell Pictures	1	Adventure
+Egoli Tossell Pictures	1	Action
+Egoli Tossell KLK	1	Drama
+Egg Pictures	1	Drama
+Efer Productions	1	Crime
+Edward S. Feldman Productions	1	Comedy
+Edward R. Pressman Productions	1	Comedy
+Edko Films	1	Action
+Edie & Ely Landau Inc.	1	Action
+Edge City Productions	1	Action
+Edgar J. Scherick Associates	1	Drama
+Edgar J. Scherick Associates	1	Comedy
+Eden Rock Media	1	Comedy
+Eclectic Pictures	1	Comedy
+Echo Lake Entertainment	1	Drama
+Echo Lake Entertainment	1	Comedy
+Eaves Movie Ranch	1	Action
+Easy Money Associates	1	Comedy
+Easy Company	1	Action
+East Asia Film Company	1	Action
+Ealing Studios	1	Comedy
+Eagle Associates.	1	Crime
+ETIC Films	1	Adventure
+ESX Entertainment	1	Sport
+ERBP	1	Drama
+EMA Films	1	Action
+EM Media	1	Drama
+EFTI	1	Crime
+Dune Entertainment III	1	Comedy
+Dune Entertainment	1	Crime
+Duffy Films	1	Comedy
+Dualstar Productions	1	Comedy
+Dreyfuss / James Productions	1	Comedy
+Dreamlab	1	Drama
+Dream Factory Group	1	Drama
+Dow Jazz Films	1	Drama
+Doug Liman Productions	1	Comedy
+Double Play	1	Crime
+Double Play	1	Comedy
+Double Nickel Entertainment	1	Crime
+Double Helix Films	1	Comedy
+Double Feature Films	1	Comedy
+Double Dare You (DDY)	1	Drama
+Double Dare You (DDY)	1	Adventure
+Dorset Productions	1	Horror
+Donner/Shuler-Donner Productions	1	Action
+Dollface	1	Drama
+Dogwood Films	1	Drama
+Dogstar Films	1	Crime
+Dogstar Films	1	Comedy
+Dog Run Pictures	1	Comedy
+Dog Eat Dog Films	1	Comedy
+Diversity Music	1	Drama
+Distant Horizon	1	Horror
+Disruption Entertainment	1	Biography
+Disneytoon Studios	1	Animation
+Dino de Laurentiis Communications	1	Action
+Dinamo Entertainment	1	Action
+Dimitri Villard Productions	1	Biography
+Digital Image Associates	1	Action
+Dickhouse Productions	1	Comedy
+Diamant Film	1	Action
+Diagonal TV	1	Drama
+Diablo Entertainment (II)	1	Comedy
+Dexter Studios	1	Action
+Devoted Productions	1	Comedy
+Detour Filmproduction	1	Drama
+Detour Filmproduction	1	Comedy
+Det Danske Filminstitut	1	Drama
+Destro Films	1	Comedy
+Desert Wolf Productions	1	Biography
+Desert Hearts Productions	1	Drama
+Depth of Field	1	Drama
+Depth of Field	1	Comedy
+Demi-Monde Productions	1	Drama
+Demarest Films	1	Drama
+Delphi IV Productions	1	Action
+Deliverance Productions	1	Action
+Deerjen Films	1	Drama
+Deep River Productions	1	Comedy
+Decibel Films	1	Comedy
+DeHaven/Shapiro Productions	1	Comedy
+De Fina-Cappa	1	Drama
+De Fina-Cappa	1	Biography
+Dayday Films	1	Drama
+Daybreak	1	Comedy
+Davros Films	1	Drama
+Davis-Films	1	Action
+David Foster Productions	1	Drama
+David Foster Productions	1	Crime
+David Foster Productions	1	Action
+David Brown Productions	1	Biography
+David Blocker Productions	1	Comedy
+Dave Bell Associates	1	Drama
+Datari Turner Productions	1	Drama
+Dash Films	1	Drama
+Dark Horse Entertainment	1	Comedy
+Dark Castle Entertainment	1	Horror
+Dark Castle Entertainment	1	Crime
+Dark Castle Entertainment	1	Action
+Danmarks Radio (DR)	1	Drama
+Daniel Grodnik Productions	1	Crime
+Daly-Harris Productions	1	Comedy
+Daiei Studios	1	Crime
+Daiei Eiga	1	Horror
+Dacia Films	1	Comedy
+Da.Ma. Cinematografica	1	Comedy
+DIC Entertainment	1	Comedy
+DIC Entertainment	1	Animation
+DENTSU Music And Entertainment	1	Drama
+DENTSU Music And Entertainment	1	Comedy
+DENTSU Music And Entertainment	1	Animation
+DEJ Productions	1	Drama
+DDM Film Corporation	1	Horror
+DDM Film Corporation	1	Drama
+DD Productions	1	Drama
+DD Productions	1	Comedy
+DC Entertainment	1	Action
+D & P Productions	1	Comedy
+Czech Anglo Productions	1	Adventure
+Cypress Grove	1	Biography
+Curzon Films	1	Comedy
+Curmudgeon Films	1	Drama
+Cube Libre	1	Drama
+Cuba Pictures	1	Drama
+Crystalite Productions	1	Comedy
+Crystal Sky Worldwide	1	Comedy
+Crunk Pictures	1	Crime
+Cruise/Wagner Productions	1	Horror
+Cruise/Wagner Productions	1	Biography
+Cruella Productions	1	Adventure
+Crowvision Inc.	1	Action
+Crossroads Films	1	Comedy
+Cross City Sales	1	Comedy
+Cristaldifilm	1	Drama
+Crescent Moon	1	Comedy
+Crescent Film Enterprises	1	Comedy
+Crescent Drive Pictures	1	Drama
+Cre Film	1	Drama
+Craven-Maddalena Films	1	Horror
+Craven-Maddalena Films	1	Drama
+Cradle Productions Inc.	1	Drama
+Covert Media	1	Drama
+Covert Media	1	Comedy
+Coup d'Etat Films	1	Biography
+Cottonwood Pictures	1	Drama
+Cosmo Films	1	Comedy
+Cort/Madden Productions	1	Drama
+Corsan	1	Drama
+Corsan	1	Biography
+Corsair Pictures	1	Comedy
+CorradoMooncoin	1	Drama
+Corporation Image M & M	1	Comedy
+Cornelius Productions	1	Comedy
+Coproduction Office	1	Drama
+Coproduction Office	1	Crime
+Copperheart Entertainment	1	Drama
+Conundrum Entertainment	1	Comedy
+Continental Motion Pictures	1	Drama
+ContentFilm	1	Drama
+Constellation Entertainment	1	Crime
+Constellation Entertainment	1	Comedy
+Constellation Entertainment	1	Adventure
+Constellation	1	Fantasy
+Constellation	1	Comedy
+Constantin Film International	1	Action
+Consejo Nacional para la Cultura y las Artes (CONACULTA)	1	Drama
+Conquering Unicorn	1	Comedy
+Connection III Entertainment	1	Comedy
+Conglomerate Media	1	Adventure
+Concorde-New Horizons	1	Horror
+Concorde-New Horizons	1	Drama
+Conacite Uno	1	Drama
+Compulsion Inc.	1	Crime
+Compañía Iberoamericana de TV	1	Drama
+Company Four	1	Comedy
+Company Films	1	Drama
+Company Films	1	Comedy
+Compact Yellowbill	1	Adventure
+Communicado Productions	1	Crime
+Commies From Mars Corporation	1	Action
+Comme des Cinémas	1	Comedy
+Columbia Pictures Industries	1	Comedy
+Columbia Pictures Industries	1	Biography
+Columbia Pictures Film Production Asia	1	Comedy
+Columbia Pictures Film Production Asia	1	Action
+Columbia Films	1	Comedy
+Color Force	1	Animation
+Color Force	1	Action
+Colgems Productions Ltd.	1	Fantasy
+Colgems Productions Ltd.	1	Adventure
+Cold Iron Pictures	1	Comedy
+Col.Ima.Son	1	Animation
+Cohen Media Group	1	Crime
+Codeblack Entertainment	1	Drama
+Code Red	1	Comedy
+Code Entertainment	1	Comedy
+Coco Cartoon	1	Animation
+Cocktail Film	1	Comedy
+Cobalt Media Group	1	Crime
+Coach Carter	1	Biography
+Clubhouse Pictures (II)	1	Action
+Cloud Ten Pictures	1	Action
+Cloud Eight Films	1	Biography
+Cloud Atlas Productions	1	Action
+Closest to the Hole Productions	1	Comedy
+Closest to the Hole Productions	1	Biography
+Clipsal Films	1	Action
+Clinica Estetico	1	Drama
+Clinica Estetico	1	Comedy
+Cliffjack Motion Pictures	1	Drama
+Clear Type	1	Comedy
+Clear Blue Sky Productions	1	Drama
+Clavius Base	1	Comedy
+Claussen & Wöbke Filmproduktion GmbH	1	Comedy
+Claudie Ossard Productions	1	Comedy
+Class 5 Films	1	Comedy
+Cité-Amérique	1	Drama
+Citizen Films	1	Drama
+Cinépix Film Properties (CFP)	1	Comedy
+Cinéa	1	Drama
+Ciné Valse	1	Comedy
+Cineville	1	Drama
+Cineville	1	Comedy
+Cineville	1	Biography
+Cinesthesia Productions	1	Comedy
+Cineritino S.r.L.	1	Drama
+Cinergi Pictures Entertainment	1	Mystery
+Cinergi Pictures Entertainment	1	Comedy
+Cinergi Pictures Entertainment	1	Biography
+Cinergi Pictures Entertainment	1	Action
+Cinereach	1	Drama
+Cinereach	1	Comedy
+Cinereach	1	Adventure
+Cinequanon	1	Drama
+Cinepro	1	Drama
+Cinephile	1	Comedy
+Cinematograph AB	1	Drama
+Cinemarque Entertainment	1	Comedy
+Cinemabrain	1	Drama
+CinemaNX	1	Crime
+Cinema Vehicle Services	1	Adventure
+Cinema Vehicle Services	1	Action
+Cinema VII	1	Horror
+Cinema Service	1	Action
+Cinema Line Film Corporation	1	Action
+Cinema Libre Studio	1	Drama
+Cinema Group	1	Crime
+Cinema City Films	1	Crime
+Cinelou Films	1	Drama
+Cinelou Films	1	Comedy
+Cinehaus	1	Drama
+Cinehaus	1	Action
+Cinehaus	1	Crime
+Cinecorp SAC	1	Comedy
+Cinecom Pictures	1	Action
+Cinecom Entertainment Group	1	Drama
+Cinecom Entertainment Group	1	Comedy
+CineWild	1	Action
+CineSon Entertainment	1	Comedy
+Cine365 Films	1	Horror
+Cine-Source	1	Drama
+Cine Plus	1	Crime
+Cine Mosaic	1	Drama
+Cine Location Services	1	Action
+Cine Bazar	1	Action
+Chungeorahm Film	1	Action
+Chuck Barris Productions	1	Comedy
+Chromewood Productions	1	Horror
+Christopher Columbus Productions	1	Adventure
+Christiano Film Group	1	Drama
+Christel Films	1	Action
+Chris Morgan Productions	1	Action
+Chris Lee Productions	1	Animation
+Chongqing Film Group	1	Drama
+Chockstone Pictures	1	Action
+Chiodo Brothers Productions	1	Comedy
+Chinese Bookie Pictures	1	Crime
+China Film Group Corporation (CFGC)	1	Animation
+China Film Group Corporation (CFGC)	1	Action
+China Film Co-Production Corporation	1	Action
+Chickie the Cop	1	Drama
+Cheyenne Enterprises	1	Drama
+Cheyenne Enterprises	1	Action
+Chestnut Ridge Productions	1	Biography
+Chestnut Hill Productions	1	Drama
+Chestnut Hill Productions	1	Comedy
+Chester Films Inc.	1	Comedy
+Cherry Sky Films	1	Crime
+Cherry Alley Productions	1	Comedy
+Cheerleader LLC	1	Comedy
+Cheap Date	1	Drama
+Chaz Productions	1	Drama
+Chase Films	1	Drama
+Chartoff-Winkler Productions	1	Drama
+Chartoff-Winkler Productions	1	Crime
+Chartoff-Winkler Productions	1	Biography
+Charlie Mopic	1	Drama
+Charles H. Schneer Productions	1	Action
+Chaos Productions	1	Comedy
+Channel Four Film	1	Drama
+Channel Films	1	Comedy
+Channel 4 Television Corporation	1	Biography
+Challenge Film Corporation	1	Action
+Chaiken Films	1	Comedy
+Chai Productions	1	Comedy
+Century Video Corporation	1	Animation
+Centropolis Film Productions	1	Action
+Central Motion Pictures	1	Crime
+Centar Film	1	Drama
+Cent Productions Inc.	1	Biography
+Celluloid Dreams	1	Drama
+Celluloid Dreams	1	Crime
+Celandine Films	1	Comedy
+Celador Films	1	Drama
+Celador Films	1	Adventure
+Cecchi Gori Pictures	1	Crime
+Cecchi Gori Europa N.V.	1	Drama
+Caviar	1	Drama
+Caviar	1	Comedy
+Cave 76	1	Action
+Causeway Films	1	Adventure
+Cattle Annie Productions	1	Drama
+Catalyst Global Media	1	Action
+Cat In The Mill Studio	1	Animation
+Casual Friday Productions	1	Comedy
+Castelao Producciones	1	Horror
+Casey Silver Productions	1	Action
+Cascade Films	1	Comedy
+Carver Films	1	Biography
+Carthago Films S.a.r.l.	1	Action
+Carson Productions	1	Drama
+Carousel Productions (II)	1	Comedy
+Carolco International N.V.	1	Horror
+Carolco Entertainment	1	Action
+Cargo Entertainment	1	Action
+Captivity Productions	1	Crime
+Capricorn	1	Action
+Cappa Production	1	Comedy
+Capitol Films	1	Crime
+Capitol Films	1	Action
+Capital Equipment Leasing	1	Biography
+Capella International	1	Crime
+Capella International	1	Comedy
+Capella International	1	Animation
+Capella International	1	Adventure
+Capella Films	1	Drama
+Cape of Good Films	1	Drama
+Capcom Entertainment	1	Action
+Canyon Media	1	Drama
+Canyon Creek Films	1	Comedy
+Cantaloupe Production	1	Comedy
+Canon Italia S.r.l.	1	Action
+Cannon and Morley Productions	1	Crime
+Cannon Screen Entertainment	1	Horror
+Cannon Screen Entertainment	1	Adventure
+Cannon International	1	Action
+Cannon Films Inc.	1	Adventure
+Cannon Entertainment	1	Biography
+Cannon Entertainment	1	Action
+Candyman Films	1	Horror
+Canana Films	1	Action
+Canal+ España	1	Drama
+Canal+ España	1	Crime
+Canal+ España	1	Comedy
+Canal+ España	1	Action
+Canal+ Droits Audiovisuels	1	Comedy
+Canadian International Studios VIII	1	Action
+Canadian Broadcasting Corporation (CBC)	1	Biography
+Caméras Continentales	1	Biography
+Caméra One	1	Comedy
+Camp Hill	1	Comedy
+Camelot Pictures	1	Comedy
+Cambridge Productions	1	Adventure
+Camberwell / Fly Films	1	Drama
+Callender Company	1	Drama
+Callahan Filmworks	1	Comedy
+Calimari Productions	1	Action
+Califilm	1	Drama
+Calendar Productions	1	Comedy
+Calendar International Pictures	1	Horror
+Caledonia Pictures	1	Drama
+CalMaple	1	Drama
+Café Film	1	Comedy
+Cactus Blue Entertainment	1	Comedy
+Cactus Blue Entertainment	1	Action
+Cable and Wireless Finance	1	Drama
+Cabal Film	1	Adventure
+CTV	1	History
+CTB Film Company	1	Action
+CIP Filmproduktion GmbH	1	Crime
+CFS Avala Film	1	Drama
+CBS Entertainment Production	1	Drama
+CB Films	1	Romance
+C.O.R.E. Feature Animation	1	Animation
+C.H.U.D. Productions	1	Horror
+C.A.T. Films	1	Adventure
+C-2 Pictures	1	Action
+C & C Brown Production	1	Comedy
+C & C Brown Production	1	Action
+Byzantine Productions	1	Horror
+Butler Pictures	1	Biography
+Butcher's Run Films	1	Drama
+Burrowes Film Group	1	Adventure
+Burk A Project	1	Action
+Bunya Productions	1	Crime
+Bungalow Productions	1	Action
+Bullwinkle Studios	1	Animation
+Bull's Eye Entertainment	1	Drama
+Bulbul Films	1	Comedy
+Buena Vista Negative Cutting	1	Animation
+Buena Vista International Film Production (Germany)	1	Action
+Buena Vista International	1	Drama
+Buena Vista International	1	Comedy
+Budapest Stúdió Vállalat	1	Comedy
+Bud Yorkin Productions	1	Drama
+Buckeye Pictures	1	Drama
+Buckeye Films	1	Comedy
+Bryna Productions	1	Action
+Bruin Grip Services	1	Comedy
+Brownstone Entertainment (II)	1	Comedy
+Brothers McMullen Productions	1	Comedy
+Brothers K Productions	1	Drama
+Bronze Eye Productions	1	Drama
+Bronco Productions	1	Adventure
+Broken Twig Productions Inc.	1	Drama
+Broken Lizard Industries	1	Comedy
+BroadwayHD	1	Musical
+Broadway Productions	1	Comedy
+British Screen Finance Ltd.	1	Comedy
+British Columbia Television	1	Horror
+British Columbia Film	1	Comedy
+British Broadcasting Corporation (BBC) Television	1	Action
+Britannic	1	Comedy
+Brio Films	1	Action
+Brillstein-Grey Entertainment	1	Comedy
+Brillstein-Grey Entertainment	1	Action
+Brightlight Pictures	1	Drama
+Brigand Films	1	Comedy
+Bregman/Baer Productions	1	Crime
+Breathless Associates	1	Action
+BreakThru Productions	1	Animation
+Braven Films	1	Drama
+Braveart Films	1	Comedy
+Braunstein and Hamady Productions	1	Comedy
+Braun Entertainment Group	1	Comedy
+Branti Film Productions	1	Comedy
+Brant-Allen	1	Biography
+Brandywine Productions	1	Action
+Brandenberg	1	Comedy
+Bow and Arrow Entertainment	1	Horror
+Bountiful Film Partners	1	Drama
+Boundscript	1	Mystery
+Borough Park Productions	1	Drama
+Boo Productions	1	Drama
+Boneyard Film Company Inc.	1	Drama
+Boneyard Entertainment	1	Comedy
+Bones	1	Animation
+Bonded Filmworks	1	Horror
+Bombshell Pictures	1	Action
+Boies / Schiller Film Group	1	Drama
+Bob-Bea Productions	1	Crime
+Bob Yari Productions	1	Crime
+Bob Yari Productions	1	Comedy
+Bob Industries	1	Adventure
+Blustarr	1	Comedy
+Blueline Productions	1	Drama
+Blueline Productions	1	Comedy
+Bluegrass Films	1	Comedy
+Bluegrass Films	1	Action
+Bluegrass Films	1	Drama
+Blue Yonder Films	1	Animation
+Blue Tulip Productions	1	Action
+Blue Train Productions	1	Action
+Blue Streak Films	1	Comedy
+Blue Sky Films	1	Action
+Blue Rider Pictures	1	Comedy
+Blue Haze Entertainment	1	Drama
+Blue Budgie Films Limited	1	Drama
+Blue Askew	1	Comedy
+Blow Up Pictures	1	Comedy
+Bloom	1	Drama
+Block / Hanson	1	Action
+Blinding Edge Pictures	1	Horror
+Bleiberg Entertainment	1	Biography
+Bleecker Street Films	1	Biography
+Blank of the Dead Productions	1	Comedy
+Blake Edwards	1	Comedy
+Blake Edwards	1	Action
+Blackhawk Productions	1	Comedy
+BlackWhite	1	Drama
+Black River Productions	1	Drama
+Black Rhino Productions	1	Comedy
+Black Label Media	1	Comedy
+Black Entertainment Television (BET)	1	Drama
+Black Bicycle Entertainment	1	Comedy
+Black Bear Pictures	1	Drama
+Black Bear Pictures	1	Crime
+Black Bear Pictures	1	Comedy
+Black Bear Pictures	1	Biography
+Bill Kenwright Films	1	Comedy
+Bill Graham Films	1	Biography
+Bigelow Productions	1	Mystery
+Bigel / Mailer Films	1	Crime
+Big Talk Productions	1	Action
+Big Screen Productions	1	Crime
+Big Screen Entertainment Group	1	Comedy
+Big Red Dog Productions	1	Animation
+Big Indie Pictures	1	Biography
+Big Easy Pictures	1	Drama
+Big Dog Films	1	Crime
+Big City Pictures	1	Comedy
+Big Cat Productions	1	Comedy
+BiBi Film	1	Drama
+Bhansali Productions	1	Action
+Bhansali Productions	1	Drama
+Beverly Detroit	1	Comedy
+Bestboy Pictures	1	Comedy
+Berk/Lane Entertainment	1	Comedy
+Bergman Lustig Productions	1	Action
+Bergen	1	Comedy
+BenderSpink	1	Drama
+BenderSpink	1	Comedy
+BenderSpink	1	Adventure
+Ben-Ami/Leeds Productions	1	Action
+Bellwether Pictures	1	Comedy
+Bellboy Films Limited	1	Comedy
+Bellanova Films	1	Drama
+Belladonna Productions	1	Crime
+Belladonna Productions	1	Adventure
+Belbo Films	1	Drama
+Belbo Films	1	Biography
+Beijing Skywheel Entertainment Co.	1	Action
+Beijing New Picture Film	1	Action
+Beijing New Picture Film	1	Drama
+Beijing Film Studio	1	Action
+Beijing Enlight Pictures	1	Animation
+Beijing Diqi Yinxiang Entertainment	1	Action
+Beijing Dengfeng International Culture Communications Company	1	Action
+Behaviour Worldwide	1	Comedy
+Before The Door Pictures	1	Action
+Before The Door Pictures	1	Drama
+Beckner/Gorman Productions	1	Action
+Becker Films	1	Biography
+Beachside Films	1	Drama
+Bazmark Films	1	Drama
+Bayview Films	1	Action
+Bayerischer Rundfunk (BR)	1	Drama
+Bavaria Film	1	Drama
+Bavaria Film	1	Comedy
+Bavaria Film	1	Adventure
+Baumgarten-Prophet Entertainment	1	Comedy
+Baughn/Freed Productions	1	Horror
+Bates Entertainment	1	Biography
+Barunson E&A	1	Comedy
+Barunson E&A	1	Action
+Barclays Mercantile Industrial Finance	1	Biography
+Barclays Mercantile Industrial Finance	1	Adventure
+Barcelona Films	1	Comedy
+Barbarian Films	1	Comedy
+Banner Entertainment	1	Comedy
+Bank Street Films	1	Crime
+Bandai Media Department	1	Action
+Baltic Industrial Finance	1	Comedy
+Balthazar Productions	1	Drama
+Ball & Chain Productions	1	Comedy
+Balkan Productions	1	Crime
+Baldwin/Cohen Productions	1	Comedy
+Balboa Entertainment	1	Crime
+Bakshi Productions	1	Animation
+Bakshi Animation	1	Animation
+Baker Street	1	Crime
+Bake My Cake Films	1	Action
+Bagdasarian Productions	1	Animation
+Bad Robot	1	Comedy
+Bad Robot	1	Action
+Bad Lt. Productions	1	Crime
+Bad Cop Bad Cop Film Productions	1	Crime
+Bad Bird Productions	1	Action
+Backup Media	1	Animation
+Bachelor Party Productions	1	Comedy
+Bac Films	1	Comedy
+Babylon	1	Action
+Baby Way Productions	1	Comedy
+Baby Cow Productions	1	Comedy
+Babieka	1	Action
+BZ Entertainment	1	Biography
+BR Petrobrás	1	Drama
+BN Films	1	Action
+BMG Independents	1	Comedy
+BKM	1	Biography
+BIM Distribuzione	1	Comedy
+BFI Film Fund	1	Drama
+BFI Film Fund	1	Comedy
+BFI Film Fund	1	Biography
+BET Pictures	1	Comedy
+BBL Motion Picture Studios	1	Adventure
+BBE	1	Comedy
+BBC Scotland	1	Biography
+B24	1	Action
+B.O.M. Film Productions Co.	1	Drama
+B.A. Produktion	1	Drama
+B Story	1	Comedy
+Azoff Entertainment	1	Biography
+Awesomeness Films	1	Drama
+Award Entertainment	1	Comedy
+Avrora Media	1	Adventure
+Aviron Pictures	1	Horror
+Avi Arad Productions	1	Action
+Avi Arad & Associates	1	Comedy
+Avenging Venture	1	Action
+Available Light Productions	1	Drama
+Autonomous Films	1	Crime
+Automatik Entertainment	1	Horror
+Automatik Entertainment	1	Drama
+Automatik Entertainment	1	Action
+Aurora Alliance Films	1	Action
+August Entertainment	1	Comedy
+August Entertainment	1	Action
+Audiovisual Development Bureau  Ministerio da Cultura	1	Drama
+Audiovisual Aval SGR	1	Drama
+Audifilm	1	Comedy
+Audax Films	1	Crime
+Atomic Monster	1	Horror
+Atman Entertainment	1	Comedy
+Atlas Productions	1	Drama
+Atlas	1	Drama
+Atlantic Records	1	Fantasy
+Atlantic Pictures (II)	1	Comedy
+Atlantic	1	Animation
+Atchafalaya	1	Drama
+Asymmetrical Productions	1	Biography
+Astralwerks	1	Comedy
+Astrakan Films	1	Comedy
+Astoria Films	1	Crime
+Aspen Productions (I)	1	Horror
+Asmik Ace Entertainment	1	Comedy
+Asia Union Film & Entertainment Ltd.	1	Action
+Ashutosh Gowariker Productions	1	Drama
+Asher-Grodin Productions	1	Comedy
+Asghar Farhadi Productions	1	Drama
+Ascot Film	1	Comedy
+Ascendant Pictures	1	Comedy
+Asahi National Broadcasting Company	1	Action
+Artémis Productions	1	Drama
+Artists Public Domain	1	Drama
+Artists First	1	Action
+Artistry Limited	1	Action
+Artista Management	1	Comedy
+Artimm	1	Adventure
+Artic Productions LLC	1	Comedy
+Artfire Films	1	Fantasy
+Artfire Films	1	Comedy
+Artbees	1	Drama
+Arnold Kopelson Productions	1	Action
+Armian Pictures	1	Drama
+Aristar Entertainment	1	Family
+Aries Cinematográfica Argentina	1	Adventure
+Aries Cinematográfica Argentina	1	Action
+ArieScope Pictures	1	Comedy
+Argos Films	1	Action
+Arenafilm	1	Crime
+Arenafilm	1	Comedy
+Arena	1	Comedy
+Ardican Films	1	Comedy
+Archimede	1	Drama
+Archerwest	1	Biography
+Archer Street Productions	1	Biography
+Archer Gray	1	Biography
+Arcafin B.V.	1	Action
+Arcade Pictures	1	Action
+Arc Productions	1	Animation
+Aramid Entertainment Fund	1	Biography
+Aquarius Films	1	Drama
+Appledown Films Inc.	1	Crime
+Applause Pictures	1	Horror
+Applause Bhansali Productions	1	Drama
+Apostle	1	Biography
+ApolloMedia Distribution	1	Crime
+ApolloMedia Distribution	1	Comedy
+Apocalypso Pictures	1	Drama
+Apeitda	1	Action
+Apartment Two	1	Comedy
+Apartment Story	1	Comedy
+Antron Media Production	1	Drama
+Antonine Films	1	Comedy
+Antidote Films (I)	1	Drama
+Antibes Inc.	1	Horror
+Antena 3 Films	1	Drama
+Annhall	1	Action
+Annapurna Productions	1	Drama
+Anna Biller Productions	1	Comedy
+Animatógrafo	1	Comedy
+Animal Productions LLC	1	Crime
+Animal Kingdom	1	Drama
+Animal Kingdom	1	Horror
+Anhelo Producciones	1	Drama
+Angeles Cinema Investors	1	Comedy
+Angeles	1	Drama
+Andrew Lauren Productions	1	Comedy
+Andrea Sperling Productions	1	Crime
+Andrea Sperling Productions	1	Action
+Anchor Bay Films	1	Crime
+Anchor Bay Films	1	Comedy
+Anchor Bay Films	1	Biography
+Anarchist's Convention Films	1	Comedy
+Anabasis N.V.	1	Action
+An Impulsive Production	1	Sci-Fi
+Amusement Park Films	1	Drama
+Amuse Soft	1	Drama
+Amuse	1	Animation
+American Playhouse Theatrical Films	1	Drama
+American Playhouse Theatrical Films	1	Comedy
+American Filmworks	1	Crime
+American Entertainment Partners II L.P.	1	Comedy
+American Entertainment Partners II L.P.	1	Action
+American Entertainment Investors	1	Comedy
+American Empirical Pictures	1	Comedy
+American Eagle Films	1	Horror
+American Cinema Productions	1	Drama
+American Cinema Productions	1	Crime
+American Cinema Productions	1	Action
+Amen Ra Films	1	Action
+Ambridge Film Partnership	1	Drama
+Amblimation	1	Animation
+Ambience Entertainment	1	Drama
+Amasia Entertainment	1	Action
+Amasia Entertainment	1	Drama
+Am Psycho Productions	1	Comedy
+Alternate Current	1	Drama
+Alter Ego Entertainment	1	Crime
+Altavista Films	1	Drama
+Altar Identity Studios	1	Comedy
+Alta Films	1	Crime
+Also Known As Pictures	1	Drama
+Alpilles Productions	1	Comedy
+Alphaville Films	1	Crime
+Almost You	1	Comedy
+Almena Films	1	Horror
+Allspark Pictures	1	Adventure
+Allison Shearmur Productions	1	Drama
+Allied Stars Ltd.	1	Drama
+Alliance Films Corporation	1	Comedy
+Alliance Films	1	Horror
+Alliance Entertainment	1	Drama
+Alliance Atlantis Motion Picture Production	1	Drama
+Alliance	1	Horror
+Allen Smithee Classic Films	1	Comedy
+Allegro Films	1	Drama
+Alleged Productions	1	Comedy
+Allarts	1	Drama
+Allarts	1	Crime
+Allan Zeman Productions	1	Drama
+All Net Productions	1	Comedy
+Aljosha	1	Comedy
+Alive Enterprises	1	Drama
+Alive Enterprises	1	Comedy
+Alicéléo	1	Drama
+Alicéléo	1	Biography
+Alicia Produce	1	Drama
+Alibaba Pictures	1	Drama
+Alibaba Pictures	1	Biography
+Alfama Films	1	Crime
+Alexandre Films	1	Horror
+Aleph Producciones S.A.	1	Drama
+Aldamisa Entertainment	1	Adventure
+Aldamisa Entertainment	1	Action
+Alcove Entertainment	1	Comedy
+Alcatraz Films	1	Adventure
+Albert Band International Productions Inc.	1	Action
+Albacore Productions Inc.	1	Drama
+Alan Enterprises	1	Animation
+Alameda Films	1	Drama
+Alacran Pictures	1	Adventure
+Akira Committee Company Ltd.	1	Animation
+Ajay Devgn Ffilms	1	Action
+Aim	1	Drama
+Agile Films	1	Crime
+Agenda	1	Comedy
+After Dark Films	1	Action
+Affirm Films	1	Drama
+Adventure Pictures	1	Drama
+Adventure Pictures	1	Biography
+Admire Productions Ltd.	1	Comedy
+Addis Wechsler Pictures	1	Drama
+Addis Wechsler Pictures	1	Comedy
+Adam Packer Film Productions	1	Comedy
+Ada Films	1	Comedy
+AdScott Pictures	1	Comedy
+Action Features	1	Comedy
+Acorn Pictures	1	Comedy
+Ace Maker Movie Works	1	Action
+Access Entertainment	1	Action
+Accent Films B.V.	1	Drama
+Acacia Filmed Entertainment	1	Crime
+Acacia Filmed Entertainment	1	Biography
+Abramoff Production	1	Action
+Abraham Productions	1	Action
+Above All Things Inc.	1	Drama
+About Film	1	Action
+Abominable Pictures	1	Comedy
+Abbolita Productions	1	Comedy
+Abandon Pictures	1	Comedy
+Abandon Entertainment	1	Action
+Aaron Spelling Productions	1	Drama
+Aaron Spelling Productions	1	Comedy
+Aaron Russo Entertainment	1	Comedy
+AVA Films & Entertainment	1	Action
+ATO Pictures	1	Drama
+ASIG Productions	1	Comedy
+AR Films	1	Action
+AOI Promotion	1	Crime
+AM/PM Entertainment	1	Adventure
+AITD Productions	1	Action
+AI-Film	1	Horror
+AI-Film	1	Biography
+ADHM Films	1	Drama
+ADC Films	1	Horror
+ACCENT Films	1	Drama
+ABC Productions	1	Drama
+ABC Entertainment	1	Animation
+ABC Animation	1	Animation
+A.M.A. Film	1	Comedy
+A Lucky Old Sun Production	1	Drama
+A Hot Dog	1	Comedy
+A Bigger Boat	1	Adventure
+A Band Apart	1	Drama
+A Band Apart	1	Comedy
+A Band Apart	1	Action
+98 MPH Productions	1	Drama
+900 Films	1	Adventure
+888 Productions	1	Action
+88 Productions	1	Crime
+8383 Productions	1	Horror
+7DM Studios	1	Comedy
+7 Films Cinéma	1	Drama
+7 Films Cinéma	1	Action
+7 Arts International	1	Drama
+4k Films	1	Comedy
+4Kids Entertainment	1	Animation
+49th Parallel Productions	1	Crime
+4 Kids Entertainment	1	Animation
+4 1/2 Film	1	Drama
+3Mark Entertainment	1	Adventure
+391 Productions	1	Drama
+391 Productions	1	Comedy
+360 Pictures	1	Crime
+3 Miles Apart Productions Ltd.	1	Comedy
+2DUX²	1	Drama
+2DUX²	1	Adventure
+26 Films	1	Comedy
+25th Hour Productions	1	Drama
+21st Century Films	1	Action
+21 Laps Entertainment	1	Comedy
+21 Laps Entertainment	1	Action
+20th Century Studios	1	Adventure
+2003 Productions	1	Drama
+2.4.7. Films	1	Animation
+2.0 Entertainment	1	Action
+2 Loop Films	1	Comedy
+1992 Number Four Limited Partnership	1	Adventure
+1984 Private Defense Contractors	1	Action
+1978 Films	1	Drama
+19 Entertainment	1	Comedy
+1818 Productions	1	Action
+1492 Pictures	1	Comedy
+1492 Pictures	1	Adventure
+13 Productions	1	Drama
+120dB Films	1	Horror
+120dB Films	1	Comedy
+120 Films	1	Crime
+10 West Studios	1	Drama
+1+2 Seisaku Iinkai	1	Drama
+.406 Production	1	Comedy
+ Weathering With You  Film Partners	1	Animation
+ DIA  Productions GmbH & Co. KG	1	Action
+Davis-Panzer Productions	2	Action
+Shangri-La Entertainment	2	Comedy
+Circle Films	2	Comedy
+David Kirschner Productions	2	Animation
+Neverending Media	2	Comedy
+Nelson Entertainment	2	Comedy
+Nelson Entertainment	2	Action
+National Lampoon	2	Adventure
+Broad Green Pictures	2	Drama
+Carnival Film & Television	2	Drama
+Golden Way Films Ltd.	2	Action
+Screen Australia	2	Action
+Screen Australia	2	Drama
+Aggregate Films	2	Comedy
+Scott Rudin Productions	2	Comedy
+British Film Institute (BFI)	2	Drama
+British Film Institute (BFI)	2	Biography
+Savoy Pictures	2	Comedy
+Jim Henson Pictures	2	Adventure
+Epic Productions	2	Action
+ARP Sélection	2	Action
+Muse Productions	2	Crime
+Jersey Films	2	Comedy
+Danjaq	2	Action
+Cinerenta Medienbeteiligungs KG	2	Drama
+Entertainment One	2	Comedy
+Entertainment One	2	Biography
+Jasmine Productions Inc.	2	Drama
+ARD Degeto Film	2	Drama
+Big Beach Films	2	Comedy
+JVC Entertainment Networks	2	Comedy
+Applied Action	2	Comedy
+STX Films	2	Action
+DNA Films	2	Drama
+Geffen Pictures	2	Comedy
+Geffen Pictures	2	Drama
+Astute Films	2	Drama
+Bridgit Folman Film Gang	2	Animation
+Breton Film Productions	2	Action
+Mirage Enterprises	2	Drama
+Mirage Enterprises	2	Biography
+Zenith Entertainment	2	Crime
+Island World	2	Drama
+Beyond Films	2	Comedy
+Astral Bellevue Pathé	2	Comedy
+Alloy Entertainment	2	Drama
+Yellow Bird	2	Action
+Appian Way	2	Action
+Cannon Pictures	2	Action
+X-Filme Creative Pool	2	Comedy
+Worldview Entertainment	2	Drama
+Working Title Films	2	Biography
+Working Title Films	2	Action
+Working Dog	2	Comedy
+Cannon Group	2	Action
+AMLF	2	Adventure
+Embassy Pictures	2	Horror
+Embassy Pictures	2	Comedy
+Allied Vision	2	Horror
+Abbas Kiarostami Productions	2	Drama
+Melvin Simon Productions	2	Action
+Melampo Cinematografica	2	Comedy
+Westerly Films	2	Comedy
+Weintraub Entertainment Group	2	Drama
+Weintraub Entertainment Group	2	Comedy
+3311 Productions	2	Comedy
+Renaissance Films	2	Comedy
+Mediapro	2	Comedy
+Adams Apple Film Company	2	Action
+Element Pictures	2	Drama
+3B Productions	2	Drama
+Warp Films	2	Crime
+Warner Independent Pictures (WIP)	2	Biography
+Cross Creek Pictures	2	Biography
+Cross Creek Pictures	2	Action
+Walt Disney Productions	2	Drama
+Walt Disney Productions	2	Comedy
+Walt Disney Productions	2	Adventure
+Frenesy Film Company	2	Drama
+BET Films	2	Comedy
+Votiv Films	2	Comedy
+Voltage Pictures	2	Drama
+Voltage Pictures	2	Comedy
+Max Films Productions	2	Drama
+Red Crown Productions	2	Drama
+Fox STAR Studios	2	Comedy
+Vision PDG	2	Drama
+Virgin Vision	2	Drama
+Fox STAR Studios	2	Action
+Marvel Enterprises	2	Action
+Marv Films	2	Action
+Bel Air Entertainment	2	Comedy
+BCDF Pictures	2	Comedy
+Bona Fide Productions	2	Comedy
+Vertigo Films	2	Action
+Mandeville Films	2	Comedy
+Mandate Pictures	2	Comedy
+FortyFour Studios	2	Animation
+R.P. Productions	2	Crime
+Mandalay Entertainment	2	Crime
+Mandalay Entertainment	2	Action
+Chroma III Productions	2	Comedy
+Malpaso Productions	2	Action
+Major Studio Partners	2	Drama
+Illumination Entertainment	2	Animation
+Union Générale Cinématographique (UGC)	2	Comedy
+Magnolia Pictures	2	Comedy
+Icon Productions	2	Drama
+Icon Productions	2	Action
+Eddie Murphy Productions	2	Comedy
+Mace Neufeld Productions	2	Action
+Ecosse Films	2	Drama
+Blurco	2	Comedy
+Producers Sales Organization (PSO)	2	Drama
+MTV Films	2	Comedy
+IPC Films	2	Drama
+Flashlight Films	2	Biography
+IM Global	2	Action
+IFC Productions	2	Drama
+IFC Productions	2	Comedy
+Shapiro-Glickenhaus Entertainment	2	Action
+Pressman Film	2	Biography
+First Look International	2	Biography
+Trimark Pictures	2	Comedy
+Trimark Pictures	2	Action
+ERA International	2	Drama
+EMI Films	2	Horror
+EMI Films	2	Crime
+Avnet/Kerner Productions	2	Comedy
+Trans World Entertainment (TWE)	2	Horror
+Filmways Pictures	2	Crime
+Hughes Entertainment	2	Comedy
+Touchwood Pacific Partners 1	2	Adventure
+Films A2	2	Drama
+Bazelevs Production	2	Horror
+Lorimar Productions	2	Drama
+Toho Company	2	Action
+Lorimar Motion Pictures	2	Comedy
+Bazelevs Production	2	Action
+Plattform Produktion	2	Comedy
+21st Century Film Corporation	2	Drama
+Art Linson Productions	2	Action
+Concorde Pictures	2	Horror
+Dovemead Films	2	Action
+Concorde Pictures	2	Action
+Filmauro	2	Comedy
+Phoenix Pictures	2	Horror
+Phoenix Pictures	2	Action
+Phoenix Pictures	2	Crime
+Filmation Associates	2	Animation
+Avery Pix	2	Comedy
+The Saul Zaentz Company	2	Drama
+The Samuel Goldwyn Company	2	Drama
+Permut Presentations	2	Comedy
+Permut Presentations	2	Action
+FilmDistrict	2	Action
+FilmDistrict	2	Horror
+Lightyear Entertainment	2	Comedy
+Bórd Scannán na hÉireann	2	Drama
+Penta Pictures	2	Comedy
+Heyday Films	2	Adventure
+Lightning Pictures	2	Action
+The Mount Company	2	Drama
+Compagnie Eric Rohmer (CER)	2	Comedy
+Herb Jaffe	2	Comedy
+Les Films du Losange	2	Drama
+Les Films du Losange	2	Comedy
+Pathé Entertainment	2	Drama
+Pathé Entertainment	2	Action
+Parts and Labor	2	Drama
+The Guber-Peters Company	2	Comedy
+Participant	2	Biography
+Participant	2	Action
+Armory Films	2	Adventure
+Don Simpson/Jerry Bruckheimer Films	2	Action
+Don Bluth	2	Animation
+Paramount Classics	2	Drama
+Paradis Films	2	Drama
+Arka Mediaworks	2	Action
+Film Four International	2	Drama
+Animal Logic	2	Animation
+Barry & Enright Productions	2	Comedy
+Act III Communications	2	Adventure
+TAFT Entertainment Pictures	2	Action
+Les Armateurs	2	Animation
+Centurion	2	Drama
+Centurion	2	Action
+Fifth Avenue Entertainment	2	Horror
+Centre national du cinéma et de l'image animée (CNC)	2	Drama
+Sunbow Productions	2	Animation
+Palace Pictures	2	Crime
+Palace Pictures	2	Comedy
+Fidélité Productions	2	Drama
+Lawrence Gordon Productions	2	Comedy
+Pacific Western	2	Crime
+Australian Film Finance Corporation (AFFC)	2	Comedy
+Fiction	2	Drama
+Australian Film Finance Corporation (AFFC)	2	Biography
+Overture Films	2	Drama
+Aurora Productions LLC	2	Comedy
+Bandeira Entertainment	2	Comedy
+Buena Vista Home Entertainment	2	Animation
+Stone Group Pictures	2	Action
+Steel Mill Pictures	2	Comedy
+Di Bonaventura Pictures	2	Action
+Opus Film	2	Drama
+Fantefilm	2	Action
+Aurora	2	Comedy
+Spyglass Entertainment	2	Comedy
+HBO Pictures	2	Action
+HBO Films	2	Crime
+Cecchi Gori Group Tiger Cinematografica	2	Drama
+Cecchi Gori Group Tiger Cinematografica	2	Crime
+Angry Films	2	Action
+Aamir Khan Productions	2	Drama
+LStar Capital	2	Comedy
+LD Entertainment	2	Horror
+LD Entertainment	2	Action
+Destination Films	2	Comedy
+Destination Films	2	Drama
+Desperate Pictures	2	Comedy
+AVCO Embassy Pictures	2	Action
+Brownstone Productions (II)	2	Comedy
+Ang Lee Productions	2	Comedy
+Bioskop Film	2	Drama
+Dentsu	2	Animation
+Number 9 Films	2	Biography
+Kramer & Sigman Films	2	Comedy
+Delphi V Productions	2	Action
+Nouvelles Éditions de Films (NEF)	2	Drama
+Soapbox Films	2	Horror
+Delphi III Productions	2	Comedy
+Northern Lights Entertainment	2	Comedy
+Delphi Films	2	Comedy
+Def Pictures	2	Comedy
+Alive Films	2	Comedy
+Green Hat Films	2	Comedy
+Broken Road Productions	2	Action
+Sixteen Films	2	Drama
+No Trace Camping	2	Comedy
+De Line Pictures	2	Comedy
+Great American Films Limited Partnership	2	Drama
+ABS-CBN Film Productions	2	Drama
+Nimbus Film Productions	2	Drama
+Night and Day Pictures	2	Comedy
+Silver Reel	2	Drama
+Kick the Machine	2	Drama
+Broadway Video	2	Biography
+Kennedy Miller Productions	2	Drama
+Kennedy Miller Productions	2	Action
+Carsey-Werner Company	2	Comedy
+Sidney Kimmel Entertainment	2	Drama
+New Zealand Film Commission	2	Comedy
+Gracie Films	2	Comedy
+City Films	2	Comedy
+Gotham Group	2	Action
+Sherwood Productions	2	Comedy
+Hanna-Barbera Productions	3	Animation
+FilmFour	3	Comedy
+Indian Paintbrush	3	Drama
+Allied Filmmakers	3	Drama
+Cinetel Films	3	Action
+Apatow Productions	3	Comedy
+The Tyler Perry Company	3	Comedy
+STX Entertainment	3	Action
+Paramount Vantage	3	Adventure
+Medusa Film	3	Comedy
+Canadian Film Development Corporation (CFDC)	3	Horror
+Baltimore Pictures	3	Comedy
+All Girl Productions	3	Comedy
+Warner Bros. Animation	3	Animation
+SLM Production Group	3	Action
+Sycamore Pictures	3	Comedy
+Sony Pictures Animation	3	Animation
+Arte France Cinéma	3	Drama
+Legendary Entertainment	3	Action
+Warner Bros. Family Entertainment	3	Adventure
+CG Cinéma	3	Drama
+DJ Films	3	Biography
+Motion Picture Corporation of America (MPCA)	3	Comedy
+M&M Productions	3	Comedy
+Aardman Animations	3	Animation
+2929 Productions	3	Drama
+Georgetown Productions Inc.	3	Horror
+Beco Films	3	Comedy
+Goldcrest Films International	3	Drama
+Henson Associates (HA)	3	Adventure
+Pathé	3	Biography
+Zoetrope Studios	3	Crime
+DiNovi Pictures	3	Drama
+Paramount Animation	3	Animation
+Anonymous Content	3	Comedy
+Nelvana	3	Animation
+Good Machine	3	Comedy
+Samuel Goldwyn Films	3	Comedy
+Gary Sanchez Productions	3	Comedy
+Amercent Films	3	Comedy
+The Ladd Company	3	Crime
+Blueprint Pictures	3	Comedy
+Night Life Inc.	3	Comedy
+Davis Entertainment	3	Drama
+American Zoetrope	3	Drama
+Davis Entertainment	3	Action
+Enigma Productions	3	Comedy
+Pathé Pictures International	3	Comedy
+CBS Theatrical Films	3	Drama
+Interscope Communications	3	Comedy
+Delphi II Productions	3	Comedy
+Robert Simonds Productions	3	Comedy
+Aspen Film Society	3	Comedy
+Road Movies Filmproduktion	3	Drama
+Alliance Atlantis Communications	3	Comedy
+Alcor Films	3	Drama
+Bold Films	3	Drama
+Motlys	3	Drama
+Gramercy Pictures (I)	3	Comedy
+River Road Entertainment	3	Biography
+Constantin Film	3	Action
+Avenue Pictures	3	Crime
+Cinema '84	3	Drama
+RKO Pictures	3	Action
+Avenue Pictures	3	Comedy
+Rhombus Media	3	Drama
+Arts Council of England	3	Comedy
+Balcor Film Investors	3	Comedy
+Rastar Pictures	3	Comedy
+Les Films Alain Sarde	3	Drama
+IAC Films	3	Comedy
+Killer Films	3	Drama
+Memfis Film	3	Comedy
+Why Not Productions	3	Crime
+Annapurna Pictures	4	Comedy
+British Broadcasting Corporation (BBC)	4	Comedy
+Jackson/McHenry Company The	4	Comedy
+CJ Entertainment	4	Crime
+Cineplex Odeon Films	4	Drama
+Block 2 Pictures	4	Drama
+ABC Motion Pictures	4	Comedy
+Gaumont	4	Drama
+Gaumont	4	Action
+Island Pictures	4	Comedy
+A&M Films	4	Drama
+Hawn / Sylbert Movie Company	4	Comedy
+Gravier Productions	4	Comedy
+Empire Pictures	4	Comedy
+Cinema Group Ventures	4	Comedy
+Lakeshore Entertainment	4	Comedy
+Lakeshore Entertainment	4	Action
+Blue Sky Studios	4	Animation
+DreamWorks	4	Comedy
+Sweetland Films	4	Comedy
+Amblin Entertainment	4	Comedy
+Amazon Studios	4	Drama
+Brooksfilms	4	Comedy
+Atlas Entertainment	4	Action
+Rastar Films	4	Comedy
+Bona Film Group	4	Action
+CiBy 2000	4	Comedy
+Mandarin Films	4	Drama
+Boll Kino Beteiligungs GmbH & Co. KG	4	Action
+Film4	4	Comedy
+HandMade Films	4	Comedy
+Imagine Films Entertainment	4	Comedy
+Exclusive Media Group	4	Action
+Madhouse	4	Animation
+Broadway Pictures	4	Comedy
+British Screen Productions	4	Drama
+Largo Entertainment	4	Action
+Blumhouse Productions	4	Horror
+Twisted Pictures	4	Crime
+ARTE	4	Drama
+Hemdale	4	Comedy
+40 Acres & A Mule Filmworks	4	Comedy
+Atlantic Entertainment Group	4	Comedy
+Gladden Entertainment	4	Comedy
+Disney Television Animation	5	Animation
+Beacon Communications	5	Comedy
+Rogue Pictures	5	Action
+Artisan Entertainment	5	Comedy
+Dharma Productions	5	Drama
+Icon Entertainment International	5	Drama
+Marimark Productions	5	Comedy
+Incorporated Television Company (ITC)	5	Comedy
+El Deseo	5	Drama
+Merchant Ivory Productions	5	Drama
+A24	5	Drama
+Gold Circle Films	5	Comedy
+Cannon Films	5	Action
+American Playhouse	5	Drama
+StudioCanal	5	Drama
+StudioCanal	5	Action
+Recorded Picture Company (RPC)	5	Drama
+Alliance Communications Corporation	5	Drama
+Sony Pictures Classics	5	Drama
+Polygram Filmed Entertainment	5	Drama
+Rysher Entertainment	5	Comedy
+Open Road Films (II)	5	Action
+BRON Studios	5	Comedy
+Fox Atomic	5	Comedy
+MK2 Productions	5	Drama
+Polygram Filmed Entertainment	5	Comedy
+Duplass Brothers Productions	5	Comedy
+Studio Ghibli	5	Animation
+The Geffen Company	6	Comedy
+Lorimar Film Entertainment	6	Action
+Bandai Visual Company	6	Animation
+Zentropa Entertainments	6	Drama
+Lions Gate Films	6	Drama
+PolyGram Filmed Entertainment	6	Comedy
+Eon Productions	6	Action
+3 Arts Entertainment	6	Comedy
+Millennium Films	6	Crime
+CBS Films	6	Comedy
+Chernin Entertainment	6	Action
+New World Pictures	7	Action
+Dino De Laurentiis Company	7	Action
+Franchise Pictures	7	Action
+Twentieth Century Fox Animation	7	Animation
+De Laurentiis Entertainment Group (DEG)	7	Comedy
+Kings Road Entertainment	7	Comedy
+Fine Line Features	7	Comedy
+Canal+	7	Drama
+Channel Four Films	7	Drama
+Channel Four Films	7	Comedy
+Caravan Pictures	8	Comedy
+Relativity Media	8	Action
+Lucasfilm	8	Action
+Alcon Entertainment	9	Comedy
+Imagine Entertainment	9	Comedy
+The Weinstein Company	9	Biography
+Jack Rollins & Charles H. Joffe Productions	9	Comedy
+Unknown	9	Drama
+Carolco Pictures	10	Action
+Marvel Studios	12	Action
+Golan-Globus Productions	12	Action
+Pixar Animation Studios	12	Animation
+Focus Features	13	Drama
+The Cannon Group	13	Action
+Morgan Creek Entertainment	14	Action
+United Artists	15	Comedy
+Revolution Studios	15	Comedy
+BBC Films	16	Drama
+Golden Harvest Company	16	Action
+Walt Disney Animation Studios	17	Animation
+EuropaCorp	17	Action
+New Regency Productions	17	Comedy
+Hollywood Pictures	18	Comedy
+Dimension Films	18	Horror
+Fox 2000 Pictures	22	Comedy
+Screen Gems	23	Action
+Orion Pictures	24	Comedy
+Fox Searchlight Pictures	24	Comedy
+Dreamworks Pictures	25	Comedy
+Castle Rock Entertainment	26	Comedy
+Lionsgate	28	Action
+DreamWorks Animation	28	Animation
+Summit Entertainment	32	Action
+Walt Disney Pictures	32	Adventure
+Miramax	34	Comedy
+TriStar Pictures	37	Comedy
+Metro-Goldwyn-Mayer (MGM)	46	Comedy
+New Line Cinema	55	Comedy
+Touchstone Pictures	57	Comedy
+Twentieth Century Fox	85	Action
+Paramount Pictures	101	Action
+Columbia Pictures	112	Action
+Warner Bros.	127	Action
+Universal Pictures	132	Comedy

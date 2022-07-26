@@ -1,0 +1,147 @@
+4526	The Motorcycle Diaries	Adventure	Argentina	57663711	1
+5442	The Secret in Their Eyes	Drama	Argentina	35079650	2
+6448	Wild Tales	Comedy	Argentina	30642704	3
+3371	Knock Off	Action	Aruba	10319915	1
+6591	Mad Max: Fury Road	Action	Australia	375658750	1
+6212	The Great Gatsby	Drama	Australia	353642274	2
+839	Crocodile Dundee	Action	Australia	328203506	3
+2238	The Three Musketeers	Action	Austria	53898845	1
+6108	Amour	Drama	Austria	29664140	2
+5170	The Counterfeiters	Crime	Austria	18814713	3
+6508	The Loft	Mystery	Belgium	11020402	1
+6557	Two Days  One Night	Drama	Belgium	9016922	2
+6130	The Broken Circle Breakdown	Drama	Belgium	5990754	3
+4005	City of God	Crime	Brazil	30680793	1
+5329	Blindness	Drama	Brazil	19844979	2
+707	Kiss of the Spider Woman	Drama	Brazil	17009654	3
+7193	Deadpool 2	Action	Canada	786470484	1
+4032	My Big Fat Greek Wedding	Comedy	Canada	368744044	2
+6809	The Conjuring 2	Horror	Canada	321788219	3
+6760	The 33	Biography	Chile	27972023	1
+7381	Gloria Bell	Comedy	Chile	11145006	2
+7003	The Fate of the Furious	Action	China	1236005118	1
+7202	Venom	Action	China	856085151	2
+7521	Ne Zha	Animation	China	726264074	3
+4574	Maria Full of Grace	Crime	Colombia	12594630	1
+5076	Hannibal Rising	Action	Czech Republic	82169884	1
+7126	The Zookeeper's Wife	Biography	Czech Republic	26152835	2
+2954	The Adventures of Pinocchio	Adventure	Czech Republic	15094530	3
+7476	The Lego Movie 2: The Second Part	Animation	Denmark	192306508	1
+3650	Dancer in the Dark	Crime	Denmark	40059672	2
+5835	Melancholia	Drama	Denmark	17039814	3
+3322	Crna macka  beli macor	Comedy	Federal Republic of Yugoslavia	351447	1
+2705	Underground	Comedy	Federal Republic of Yugoslavia	171082	2
+6912	The Angry Birds Movie	Animation	Finland	352333929	1
+7467	The Angry Birds Movie 2	Animation	Finland	147792047	2
+6553	Big Game	Action	Finland	7455398	3
+7358	The Grinch	Animation	France	512492755	1
+6406	Lucy	Action	France	458863600	2
+5803	The Intouchables	Biography	France	426588510	3
+5664	Resident Evil: Afterlife	Action	Germany	300228084	1
+3415	Stuart Little	Adventure	Germany	300135367	2
+5220	Gran Torino	Drama	Germany	269958228	3
+2778	To vlemma tou Odyssea	Drama	Greece	7500000	1
+5438	Dogtooth	Drama	Greece	676126	2
+3856	Rush Hour 2	Action	Hong Kong	347325802	1
+7492	Ip Man 4: The Finale	Action	Hong Kong	176345966	2
+4467	Kung Fu Hustle	Action	Hong Kong	104882445	3
+5943	Monte Carlo	Adventure	Hungary	39782683	1
+1579	My Twentieth Century	Comedy	Hungary	7500000	2
+6783	Son of Saul	Drama	Hungary	6659121	3
+7308	Arctic	Adventure	Iceland	4165776	1
+6739	Z for Zachariah	Drama	Iceland	381839	2
+6865	Dangal	Action	India	303723636	1
+7139	Baahubali 2: The Conclusion	Action	India	254158390	2
+6745	Bajrangi Bhaijaan	Action	India	121126188	3
+5864	The Raid: Redemption	Action	Indonesia	9148519	1
+6495	The Raid 2	Action	Indonesia	6566916	2
+5853	A Separation	Drama	Iran	22926076	1
+1697	Close-Up	Biography	Iran	7500000	2
+2533	Through the Olive Trees	Drama	Iran	7500000	3
+3834	Enemy at the Gates	Drama	Ireland	96976270	1
+7223	The Favourite	Biography	Ireland	95918706	2
+2230	In the Name of the Father	Biography	Ireland	65796862	3
+5366	Waltz with Bashir	Animation	Israel	11179372	1
+460	Hanna K.	Drama	Israel	1200000	2
+6377	The Congress	Animation	Israel	758754	3
+3007	Life Is Beautiful	Comedy	Italy	230098753	1
+4183	Pinocchio	Comedy	Italy	44310395	2
+7001	Call Me by Your Name	Drama	Italy	41888660	3
+3306	Belly	Crime	Jamaica	9639390	1
+3225	Godzilla	Action	Japan	379014294	1
+6819	Your Name.	Animation	Japan	358180115	2
+3801	Spirited Away	Animation	Japan	355475245	3
+6493	The Good Lie	Biography	Kenya	3396345	1
+7250	Capharnaüm	Drama	Lebanon	64417003	1
+50	Lion of the Desert	Biography	Libya	52500000	1
+7028	Murder on the Orient Express	Crime	Malta	352794081	1
+487	Romancing the Stone	Action	Mexico	86572238	1
+7154	How to Be a Latin Lover	Comedy	Mexico	62547032	2
+4049	Frida	Biography	Mexico	56298474	3
+4843	Black Book	Drama	Netherlands	26768563	1
+4490	Mindhunters	Crime	Netherlands	21148829	2
+667	Flesh+Blood	Adventure	Netherlands	9750000	3
+4196	The Lord of the Rings: The Return of the King	Action	New Zealand	1146030912	1
+5994	The Hobbit: An Unexpected Journey	Adventure	New Zealand	1017003568	2
+6403	The Hobbit: The Battle of the Five Armies	Adventure	New Zealand	962182865	3
+5957	Jo Nesbø's Headhunters	Action	Norway	18962444	1
+7386	The Quake	Action	Norway	13837294	2
+6701	The Wave	Action	Norway	12975143	3
+6974	Hands of Stone	Biography	Panama	4978353	1
+7578	Open	Drama	Philippines	450000000	1
+454	Stryker	Action	Philippines	1723487	2
+7583	Alone/Together	Drama	Philippines	271101	3
+7098	Loving Vincent	Animation	Poland	42187665	1
+7302	Cold War	Drama	Poland	20343051	2
+6379	Ida	Drama	Poland	11156836	3
+2288	The House of the Spirits	Drama	Portugal	6265311	1
+3751	O Fantasma	Drama	Portugal	126783	2
+2578	Pred dozhdot	Drama	Republic of Macedonia	763847	1
+5155	4 Months  3 Weeks and 2 Days	Drama	Romania	10174839	1
+4556	Night Watch	Action	Russia	50336279	1
+5166	Mongol: The Rise of Genghis Khan	Action	Russia	26527510	2
+6665	Hardcore Henry	Action	Russia	16810562	3
+6371	In Secret	Crime	Serbia	652228	1
+7615	Tee em el	Horror	South Africa	450000000	1
+5410	District 9	Action	South Africa	210888950	2
+6036	Safe House	Action	South Africa	208076205	3
+7400	Parasite	Comedy	South Korea	258908054	1
+7529	Extreme Job	Action	South Korea	119932733	2
+7190	Along With the Gods: The Two Worlds	Action	South Korea	109383972	3
+67	Moscow Does Not Believe in Tears	Comedy	Soviet Union	1350000	1
+569	Repentance	Drama	Soviet Union	1200000	2
+3825	The Others	Horror	Spain	209947037	1
+6002	The Impossible	Drama	Spain	198087212	2
+5799	Midnight in Paris	Comedy	Spain	151653750	3
+5450	The Girl with the Dragon Tattoo	Crime	Sweden	104414200	1
+5526	The Girl Who Played with Fire	Action	Sweden	67153225	2
+5553	The Girl Who Kicked the Hornet's Nest	Crime	Sweden	44276335	3
+5746	Conviction	Biography	Switzerland	11104555	1
+944	Jean de Florette	Comedy	Switzerland	4940939	2
+7485	The Beach Bum	Comedy	Switzerland	4554416	3
+3627	Crouching Tiger  Hidden Dragon	Action	Taiwan	213525736	1
+5063	Lust  Caution	Drama	Taiwan	67091915	2
+2517	Eat Drink Man Woman	Comedy	Taiwan	7294403	3
+4759	The Protector	Action	Thailand	27165581	1
+4304	Ong-Bak: The Thai Warrior	Action	Thailand	20235426	2
+5339	Chocolate	Action	Thailand	3179014	3
+6708	Mustang	Drama	Turkey	5274664	1
+6577	Winter Sleep	Drama	Turkey	4018705	2
+5989	Once Upon a Time in Anatolia	Crime	Turkey	2099472	3
+5817	Contagion	Drama	United Arab Emirates	136515867	1
+7057	The Circle	Drama	United Arab Emirates	40656399	2
+5795	Harry Potter and the Deathly Hallows: Part 2	Adventure	United Kingdom	1342321665	1
+6008	Skyfall	Action	United Kingdom	1108569499	2
+5996	The Dark Knight Rises	Action	United Kingdom	1081142612	3
+5396	Avatar	Action	United States	2847246203	1
+7393	Avengers: Endgame	Action	United States	2797501328	2
+2997	Titanic	Drama	United States	2201647264	3
+5679	Saw: The Final Chapter	Crime	United states	135000000	1
+7555	Furie	Action	Vietnam	5756185	1
+2346	The Scent of Green Papaya	Drama	Vietnam	1700992	2
+483	The NeverEnding Story	Adventure	West Germany	20251411	1
+21	Cruising	Crime	West Germany	19814523	2
+135	The Postman Always Rings Twice	Crime	West Germany	12376625	3
+734	Transylvania 6-5000	Comedy	Yugoslavia	7196872	1
+1324	Time of the Gypsies	Comedy	Yugoslavia	1200000	2
+808	Bal na vodi	Drama	Yugoslavia	1200000	3
